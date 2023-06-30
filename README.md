@@ -7,11 +7,13 @@ PR2 version: 5.0.1
 Files are in directory `exports`. There is a sub-directory for each
 taxonomic group.
 
-Please note that there are two types of sequecnes \* Sequences that have
-been annotated in PR2 and that are part of the released database \*
-Sequences that are not part of PR2 and that have been annotated
-automatically using the naive Bayes assignment as implemented in dada2 R
-package. The database used for assignment is PR2 version 5.0.1.
+Please note that there are two types of sequences:
+
+- Sequences that have been annotated in PR2 and that are part of the
+  released database
+- Sequences that are not part of PR2 and that have been annotated
+  automatically using the naive Bayes assignment as implemented in dada2
+  R package. The database used for assignment is PR2 version 5.0.1.
 
 There are 3 files:
 
