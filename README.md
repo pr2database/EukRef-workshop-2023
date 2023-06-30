@@ -1,6 +1,6 @@
 # README
 
-## Files generated for EukRef worshop
+## Files generated for EukRef worshop - 2023 - Barcelona
 
 PR2 version: 5.0.1
 
@@ -42,10 +42,10 @@ This file contains two sheets:
 This is a summary of the taxonomy with the number of sequences assigned
 to each species
 
-    supergroup | division | subdivision | class | order | family | genus | species | n
-    --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-    Archaeplastida | Picozoa | Picozoa_X | Picomonadea | Picomonadida | Picomonadidae | Picomonas | Picomonas_judraskeda | 74
-    Archaeplastida | Picozoa | Picozoa_X | Picozoa_XX | Picozoa_XXX | Picozoa_XXXX | Picozoa_XXXXX | Picozoa_XXXXX_sp. | 391
+| supergroup     | division | subdivision | class       | order        | family        | genus         | species              | n   |
+|----------------|----------|-------------|-------------|--------------|---------------|---------------|----------------------|-----|
+| Archaeplastida | Picozoa  | Picozoa_X   | Picomonadea | Picomonadida | Picomonadidae | Picomonas     | Picomonas_judraskeda | 74  |
+| Archaeplastida | Picozoa  | Picozoa_X   | Picozoa_XX  | Picozoa_XXX  | Picozoa_XXXX  | Picozoa_XXXXX | Picozoa_XXXXX_sp.    | 391 |
 
 ### Sheet “metadata”
 
@@ -54,6 +54,8 @@ Contains all the metadata of the PR2 database.
 Please see a complete list of the fields
 [here](https://pr2-database.org/documentation/pr2-fields/)
 
-In addition columns: \* `pr2_annotated` is TRUE if the sequence is part
-of the PR2 database and false if it is not been annotated \*
-`species_old` should not be changed if you edit the species column
+In addition columns:
+
+- `pr2_annotated` is TRUE if the sequence is part of the PR2 database
+  and false if it is not been annotated
+- `species_old` should not be changed if you edit the species column
