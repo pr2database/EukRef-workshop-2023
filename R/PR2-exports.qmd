@@ -1,0 +1,160 @@
+---
+title: "PR2 Exports for EukRef""
+author: "Daniel Vaulot"
+date: '`r format(Sys.time(), "%d %m %Y")`'
+---
+# Goal
+This NoteBook allows to exports specific groups of data from PR2
+
+# Init and read PR2
+Load the variables common to the different scripts and the necessary libraries
+
+```{r init, eval=TRUE, message=FALSE, warning=FALSE}
+  source('PR2_init.R', echo=FALSE)
+  # source('PR2_read.R', echo=FALSE)
+  # source('PR2_read_google.R', echo=FALSE)
+  pr2_18S <- qs::qread(here::here("databases", "pr2_18S.qs")) 
+
+```
+
+
+```{r function_export, eval=TRUE, message=FALSE, warning=FALSE}
+# Export function
+
+pr2_export <- function(pr2,  
+                       taxo_level="class",
+                       taxa = c("Pelagophyceae"),
+                       compress = TRUE,
+                       taxo_include = FALSE
+                       ){
+  
+  
+  file_head = here::here("exports", str_c(taxa, sep="_"), "pr2_export")
+  
+  try(fs::dir_create(here::here("exports", str_c(taxa, sep="_"))))
+  
+  taxo_level_bayes = str_c(taxo_level, "_bayes")
+   
+  pr2_export_annotated <- pr2 %>% 
+    filter(!is.na(species),
+           .data[[taxo_level]] %in% taxa) %>% 
+    mutate(pr2_annotated = TRUE)
+  
+  pr2_export_unannotated <- pr2 %>%  
+    filter(is.na(species),
+           .data[[taxo_level_bayes]] %in% taxa) %>% 
+    mutate(pr2_annotated = FALSE) %>% 
+    select(!(domain:species)) %>% 
+    rename_with(~ str_replace(.x, "_bayes", ""), contains("_bayes"))
+  
+  pr2_export <- bind_rows(pr2_export_annotated, pr2_export_unannotated) %>% 
+  # filter(!is.na(domain)) %>%   # Remove data that are not annotated yet
+  mutate(species_old = species) %>% 
+  arrange(domain, supergroup, division, subdivision, class, order, family, genus, species) %>% 
+  relocate(species_old, .after = species) %>% 
+  relocate(pr2_annotated, .after = species) %>% 
+  select(-starts_with("taxo_"))
+  
+  pr2_export_taxonomy <- pr2_export %>% count(supergroup, division, subdivision, 
+                                              class, order, family, genus, species)
+  
+  pr2_export_fasta_annotated <- pr2_export %>% 
+    filter(!is.na(species)) %>% 
+    select(seq_name=pr2_accession, supergroup:genus, species, sequence) 
+  
+  # pr2_export_fasta_other <- pr2_export %>% 
+  #   filter(is.na(species)) %>% 
+  #   mutate(seq_name=str_c(pr2_accession, gb_definition , sep = "|")) %>% 
+  #   select(seq_name, sequence) 
+  
+  pr2_export_metadata <- pr2_export # %>%
+    # select(pr2_accession:organelle, kingdom:genus, species, chimera:remark, taxon_trophic_mode:metadata_remark)
+    # select(-contains("_8"), -contains("boot"))
+    # select(-sequence)
+    
+  pr2_export_txt <- pr2_export %>% 
+    mutate(tax = str_c(domain, supergroup, division, subdivision, 
+                       class, order, family, genus, species, 
+                       sep = "; ")) %>% 
+    select(pr2_accession, tax)
+  
+  export(list("taxonomy"=pr2_export_taxonomy, "metadata"=pr2_export_metadata), 
+         file = str_c(file_head, ".xlsx"),
+         zoom=80, firstActiveRow = 2, firstActiveCol = 12, colWidths="auto",
+         overwrite = TRUE
+         )
+  if (compress) file_ext = ".fas.gz" else ".fas"
+  dvutils::fasta_write(pr2_export_fasta_annotated, str_c(file_head, file_ext), compress, taxo_include)
+  # dvutils::fasta_write(pr2_export_fasta_other, str_c(file_head, "_other", file_ext), compress, FALSE)
+  
+  readr::write_tsv(pr2_export_txt, str_c(file_head, ".txt"), quote = "all")
+  
+  print(str_c("Number of sequences exported - annotated: ", nrow(pr2_export_annotated)))
+  print(str_c("Number of sequences exported - other: ", nrow(pr2_export_unannotated)))
+ 
+}
+```
+
+
+# Export EukRef
+## Export Picozoa
+[1] "Number of sequences exported - annotated: 289"
+[1] "Number of sequences exported - other: 176"
+
+```{r, eval=FALSE}
+
+  taxa = c("Picozoa")
+  taxo_level = "division"
+  
+  pr2 <- pr2_18S
+
+  pr2_export ( pr2_18S, 
+               taxa = taxa,
+               taxo_level = taxo_level)
+  
+```
+
+
+
+
+
+
+
+
+
+
+# ==========================================================
+
+#   NOT USED
+
+# ==========================================================
+
+# Taxonomy
+
+```{r}
+ pr2_taxo_class <- pr2_taxo %>% 
+  group_by (kingdom, supergroup, division, class) %>% 
+  tally() %>% 
+   openxlsx::write.xlsx(file="../updates/2020 new taxonomy/pr2_taxonomy_class.xlsx", na="")
+```
+
+
+[1] "Number of sequences exported - annotated: 1336"
+[1] "Number of sequences exported - other: 521"
+
+```{r, eval=FALSE}
+
+  target_group = "Labyrinthulomycetes"
+
+  pr2_export <- pr2 %>% 
+  filter(order == target_group |
+         class_8_bayes == target_group |
+         str_detect(silva_taxonomy, target_group),
+         is.na(removed_version),
+         !str_detect(gb_organism, "metagenome")) %>% 
+  arrange(genbank_accession)
+
+  pr2_export_xls ( pr2_export, 
+                   file_head = "../exports/pr2_Labys_2023-04-03")
+  
+```

@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+examples
+databases
+.~lock.*
+README.qmd
+*.Rproj
+data_initialize.R
