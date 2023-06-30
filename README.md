@@ -52,7 +52,7 @@ to each species
 | Archaeplastida | Picozoa  | Picozoa_X   | Picomonadea | Picomonadida | Picomonadidae | Picomonas     | Picomonas_judraskeda | 74  |
 | Archaeplastida | Picozoa  | Picozoa_X   | Picozoa_XX  | Picozoa_XXX  | Picozoa_XXXX  | Picozoa_XXXXX | Picozoa_XXXXX_sp.    | 391 |
 
-### Sheet “metadata”
+#### Sheet “metadata”
 
 Contains all the metadata of the PR2 database.
 
