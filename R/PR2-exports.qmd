@@ -83,7 +83,7 @@ pr2_export <- function(pr2,
          zoom=80, firstActiveRow = 2, firstActiveCol = 12, colWidths="auto",
          overwrite = TRUE
          )
-  if (compress) file_ext = ".fas.gz" else ".fas"
+  if (compress) file_ext = ".fas.gz" else file_ext = ".fas"
   dvutils::fasta_write(pr2_export_fasta_annotated, str_c(file_head, file_ext), compress, taxo_include)
   # dvutils::fasta_write(pr2_export_fasta_other, str_c(file_head, "_other", file_ext), compress, FALSE)
   
@@ -169,6 +169,20 @@ df <- tibble::tribble(
 )
 ```
 
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Eumycetozoa", "subdivision",
+  "Archamoebea", "class",
+  "Variosea", "class",
+  "Tubulinea", "division",
+  "Centramoebia", "class",
+  "Flabellinia", "class",
+  "Stygamoebida", "class"
+)
+```
+
 
 
 # Export results
@@ -237,6 +251,29 @@ Porifera
 [1] "Number of sequences exported - annotated: 1082"
 [1] "Number of sequences exported - other: 480"
 
+Show in New Window
+Eumycetozoa 
+[1] "Number of sequences exported - annotated: 1122"
+[1] "Number of sequences exported - other: 2239"
+Archamoebea 
+[1] "Number of sequences exported - annotated: 338"
+[1] "Number of sequences exported - other: 1095"
+Variosea 
+[1] "Number of sequences exported - annotated: 172"
+[1] "Number of sequences exported - other: 485"
+Tubulinea 
+[1] "Number of sequences exported - annotated: 342"
+[1] "Number of sequences exported - other: 3180"
+Centramoebia 
+[1] "Number of sequences exported - annotated: 684"
+[1] "Number of sequences exported - other: 635"
+Flabellinia 
+[1] "Number of sequences exported - annotated: 644"
+[1] "Number of sequences exported - other: 1389"
+Stygamoebida 
+[1] "Number of sequences exported - annotated: 13"
+[1] "Number of sequences exported - other: 27"
+
 ```{r, eval=FALSE}
 
   # taxa = c("Picozoa")
@@ -250,10 +287,6 @@ Porifera
 
   
 ```
-
-
-
-
 ## Fungi
 
 ```{r}
@@ -275,20 +308,30 @@ df_fungi <- tibble::tribble(
 
 
 ```{r, eval=FALSE}
-
-  # taxa = c("Picozoa")
-  # taxo_level = "division"
-  # pr2_export ( pr2_18S, 
-  #              taxa = taxa,
-  #              taxo_level = taxo_level)
-  
   result <- purrr::map2(df_fungi$taxa, df_fungi$taxo_level, ~ pr2_export ( pr2_fungi, taxa = .x, taxo_level = .y))
+```
+
+
+## Chloropicophyceae
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Chloropicophyceae", "class"
+)
+```
+
+
+```{r, eval=FALSE}
+
+  result <- purrr::map2(df$taxa, df$taxo_level, 
+                        ~ pr2_export ( pr2_18S, taxa = .x, taxo_level = .y, 
+                                       taxo_include = TRUE, compress = FALSE))
 
 
   
 ```
-
-
 
 
 
