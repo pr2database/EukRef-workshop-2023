@@ -1,0 +1,201 @@
+---
+title: "PR2_Curation"
+author: "Anthony Bonacolta"
+date: "June 2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+PR2 Curation allows users interested in a particular group of microbial eukaryotes to retrieve all sequences belonging to that group, place those sequences in a phylogenetic tree, and curate taxonomic and environmental information about the group.
+
+## Setup:
+#### R Packages & Functions
+```{r}
+if (!require("librarian"))
+  install.packages("librarian")
+librarian::shelf(
+  ape,
+  base,
+  Biostrings,
+  devtools,
+  dplyr,
+  gginnards,
+  ggplot2,
+  ggrepel,
+  ggtree,
+  insect,
+  pr2database / pr2database,
+  readxl,
+  shiny,
+  shinybusy,
+  tidytree,
+  treeio,
+  quiet = TRUE
+)
+
+## FUNCTIONS
+seq_clade <- function(x) {
+  seq_clade <- Biostrings::DNAStringSet(x$sequence)
+  names(seq_clade) <- paste(x$genbank_accession, sep = "|")
+  Biostrings::writeXStringSet(seq_clade, "pr2_CLADE.fa", width = 80)
+}
+```
+
+#### Unix Packages (via conda). If not installed already, please install minconda here: https://docs.conda.io/en/latest/miniconda.html
+Please change `~/miniconda2/bin` to the path of your miniconda bin.
+```{r}
+Sys.setenv(PATH = paste("~/miniconda2/bin", Sys.getenv("PATH"), sep = ":"))
+system("conda init")
+```
+** Copy and past this below chunk, one line at a time, into the `terminal` tab below
+```{bash}
+conda create -n pr2
+conda activate pr2
+conda install -c bioconda vsearch mafft trimal raxml
+```
+
+## Step 1: Creation of Phylogenetic Tree
+### 1A: Generate fasta for lineage of interest + outgroup
+Please change `order   == "Suessiales"` to your lineage of interest. Adjust `Order` accordingly as well
+```{r}
+setwd("~/PATH/TO/WORKING/DIRECTORY")
+pr2 <- pr2_database()
+Order   = pr2 %>% dplyr::filter(order   == "Suessiales") %>% dplyr::select(pr2_accession, sequence_length, sequence)
+seq_clade(Order)
+```
+
+**Note**- If you wish to include an outgroup you can add the outgroup sequence to the pr2_CLADE.fa which was just generated.
+
+### 1B: Tree Building (this can be run directly from the markdown chunk)
+```{bash}
+cd ~/PATH/TO/WORKING/DIRECTORY
+vsearch --sortbylength  pr2_CLADE.fa --output CLADE_sort.fa --minseqlength 500 -notrunclabels
+vsearch --cluster_smallmem CLADE_sort.fa --id 0.97 --centroids CLADE.clustered.fa -uc CLADE.cluster
+mafft --reorder --auto CLADE.clustered.fa > CLADE_aligned.fa
+trimal -in CLADE_aligned.fa -out CLADE.trimal.fa -gt 0.3 -st 0.001
+rm -f RAxML_*
+raxmlHPC-PTHREADS-SSE3 -T 4 -m GTRCAT -c 25 -e 0.001 -p 31415 -f a -N 100 -x 02938 -n tre -s CLADE.trimal.fa
+```
+
+## Step 2: Phylogenetic Tree Editing and Modification
+Download FigTree from http://tree.bio.ed.ac.uk/software/figtree/ and open your newly generated tree (RAxML_bipartitions.tre)
+
+Within this app you can view your tree, re-root it, and flip any branches.
+
+Upload an annotation file into figtree to color/label your branches according to PR2 taxonomy.
+An example annotation file can be found here: https://github.com/guyleonard/PR2-curation/blob/main/data/rename.txt
+
+You can generate your own using the excel here: https://github.com/pr2database/pr2database/releases/download/v5.0.0/pr2_version_5.0.0_merged.xlsx
+- Just filter according to your lineage of interest and create a new tab-deliminated file with the pr2 accession in column 1 and taxonomy in the following columns
+
+You can also identify leafs for removal and continue below:
+
+## Step 3: Remove Taxa
+```{r}
+setwd("~/PATH/TO/WORKING/DIRECTORY")
+taxa2remove_file <- "taxa2remove.xlsx"
+cluster_file <- "CLADE.cluster"
+pr2_clade_fasta <- "pr2_CLADE.fa"
+
+del <- read_excel(taxa2remove_file, col_names = 'list')
+del <- del$list
+cluster <-read.delim(cluster_file,header = FALSE,sep = "\t",dec = ".")
+dataset <- Biostrings::readDNAStringSet(pr2_clade_fasta)
+new_clu <- cluster[!cluster$V10 %in% del,]
+new_clu <- new_clu[!new_clu$V9 %in% del,]
+new_clu <- new_clu[!duplicated(new_clu$V9),]
+new_clu <- as.vector(new_clu$V9)
+
+# Export PR2 file
+seq <- names(dataset)
+new_data <- dataset[seq %in% new_clu]
+
+# Saving the sequences as a FA file
+Biostrings::writeXStringSet(new_data, "pr2_CLADE_modify.fa", width = 80)
+```
+
+## Step 4: Generate Modified Tree
+**You can now use this new fasta file (pr2_CLADE_modify.fa) as input into step 1B and continue curation.**
+
+## Step 5: Propogate curated taxonomy to all sequences
+### 5A: Generate cluster representative file to curate
+```{r}
+setwd("~/PATH/TO/WORKING/DIRECTORY")
+library(readxl)
+library(writexl)
+library(dplyr)
+# Read the original sequences and their taxonomic annotations from the Excel file. This file is derived from merged pr2 filtered to your lineage
+original_sequences_file <- "lineage.xlsx"  
+original_sequences_df <- read_excel(original_sequences_file)
+
+# Load the Cluster file data into a data frame called 'cluster_df'
+cluster_df <- read.delim("CLADE.cluster", header = FALSE, sep = "\t", stringsAsFactors = FALSE)
+
+# Extract the rows of the representative sequences for each cluster from the original sequences data frame
+representatives <- unique(cluster_df$V10)
+representatives_df <- original_sequences_df[original_sequences_df$pr2_accession %in% representatives, ]
+
+# Specify the output file path for the exported Excel file
+export_file <- "representatives.xlsx"
+
+# Export the representatives_df data frame to Excel
+write_xlsx(representatives_df, export_file)
+```
+
+### 5B: Use this curation to propagate the taxonomic string to rest of accessions
+**MANUALLY CURATE THIS EXCEL WITH TREE INFO, then re-upload**
+```{r}
+edited_file <- "/Volumes/GoogleDrive/My Drive/EukRef_Barcelona2023/representatives.xlsx"  # Update with the path to your edited Excel file
+edited_representatives_df <- read_excel(edited_file)
+representatives <- unique(cluster_df$V10)
+representatives_df <- original_sequences_df[original_sequences_df$pr2_accession %in% representatives, ]
+
+# Select the relevant columns from edited_representatives_df
+update_cols <- c("genbank_accession", "domain", "supergroup", "division", "subdivision", "class", "order", "family", "genus", "species")
+
+# Update the taxonomy columns in original_sequences_df
+updated_original_sequences_df <- original_sequences_df %>%
+  left_join(edited_representatives_df[, update_cols], by = "pr2_accession") %>%
+  mutate(
+    domain = coalesce(domain.y, domain.x),
+    supergroup = coalesce(supergroup.y, supergroup.x),
+    division = coalesce(division.y, division.x),
+    subdivision = coalesce(subdivision.y, subdivision.x),
+    class = coalesce(class.y, class.x),
+    order = coalesce(order.y, order.x),
+    family = coalesce(family.y, family.x),
+    genus = coalesce(genus.y, genus.x),
+    species = coalesce(species.y, species.x)
+  ) %>%
+  select(-ends_with(".x"), -ends_with(".y"))
+
+# Now the reps
+library(dplyr)
+# Create the new cluster_df by left joining edited_representatives_df
+new_cluster_df <- left_join(cluster_df, edited_representatives_df, by = c("V10" = "pr2_accession"))
+new_cluster_df <- distinct(new_cluster_df, V9, .keep_all = TRUE)
+new_cluster_df <- new_cluster_df %>%
+  rename(genbank_accession = V9)
+update_cols <- c("pr2_accession", "domain", "supergroup", "division", "subdivision", "class", "order", "family", "genus", "species")
+updated_original_sequences_df2 <- updated_original_sequences_df %>%
+  left_join(new_cluster_df[, update_cols], by = "pr2_accession") %>%
+  mutate(
+    domain = coalesce(domain.y, domain.x),
+    supergroup = coalesce(supergroup.y, supergroup.x),
+    division = coalesce(division.y, division.x),
+    subdivision = coalesce(subdivision.y, subdivision.x),
+    class = coalesce(class.y, class.x),
+    order = coalesce(order.y, order.x),
+    family = coalesce(family.y, family.x),
+    genus = coalesce(genus.y, genus.x),
+    species = coalesce(species.y, species.x)
+  ) %>%
+  select(-ends_with(".x"), -ends_with(".y"))
+
+# Save the propagated taxonomic annotations to a new Excel file
+output_file <- "propagated_taxonomy.xlsx"
+write_xlsx(updated_original_sequences_df2, output_file)
+```
