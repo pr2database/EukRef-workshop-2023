@@ -1,0 +1,7 @@
+"pr2_accession"	"tax"
+"KX214677.1.1460_U"	"Eukaryota; Obazoa; Opisthokonta; Fungi; Microsporidiomycota; Metchnikovellida; Metchnikovellidae; Amphiamblys; Amphiacantha_sp."
+"KX214676.1.1693_U"	"Eukaryota; Obazoa; Opisthokonta; Fungi; Microsporidiomycota; Metchnikovellida; Metchnikovellidae; Amphiamblys; Amphiacantha_sp."
+"KX214674.94.1468_U"	"Eukaryota; Obazoa; Opisthokonta; Fungi; Microsporidiomycota; Metchnikovellida; Metchnikovellidae; Amphiamblys; Amphiamblys_sp."
+"KX214672.99.1461_U"	"Eukaryota; Obazoa; Opisthokonta; Fungi; Microsporidiomycota; Metchnikovellida; Metchnikovellidae; Amphiamblys; Amphiamblys_sp."
+"MT969020.571.1791_U"	"Eukaryota; Obazoa; Opisthokonta; Fungi; Microsporidiomycota; Metchnikovellida; Metchnikovellidae; Metchnikovella; Metchnikovella_dogieli"
+"KX214678.1.1559_U"	"Eukaryota; Obazoa; Opisthokonta; Fungi; Microsporidiomycota; Metchnikovellida; Metchnikovellidae; Metchnikovellidae_X; Metchnikovellidae_X_sp."
