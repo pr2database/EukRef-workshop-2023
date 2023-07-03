@@ -39,7 +39,7 @@ librarian::shelf(
 ## FUNCTIONS
 seq_clade <- function(x) {
   seq_clade <- Biostrings::DNAStringSet(x$sequence)
-  names(seq_clade) <- paste(x$genbank_accession, sep = "|")
+  names(seq_clade) <- paste(x$pr2_accession, sep = "|")
   Biostrings::writeXStringSet(seq_clade, "pr2_CLADE.fa", width = 80)
 }
 ```
@@ -154,7 +154,7 @@ representatives <- unique(cluster_df$V10)
 representatives_df <- original_sequences_df[original_sequences_df$pr2_accession %in% representatives, ]
 
 # Select the relevant columns from edited_representatives_df
-update_cols <- c("genbank_accession", "domain", "supergroup", "division", "subdivision", "class", "order", "family", "genus", "species")
+update_cols <- c("pr2_accession", "domain", "supergroup", "division", "subdivision", "class", "order", "family", "genus", "species")
 
 # Update the taxonomy columns in original_sequences_df
 updated_original_sequences_df <- original_sequences_df %>%
@@ -178,7 +178,7 @@ library(dplyr)
 new_cluster_df <- left_join(cluster_df, edited_representatives_df, by = c("V10" = "pr2_accession"))
 new_cluster_df <- distinct(new_cluster_df, V9, .keep_all = TRUE)
 new_cluster_df <- new_cluster_df %>%
-  rename(genbank_accession = V9)
+  rename(pr2_accessionn = V9)
 update_cols <- c("pr2_accession", "domain", "supergroup", "division", "subdivision", "class", "order", "family", "genus", "species")
 updated_original_sequences_df2 <- updated_original_sequences_df %>%
   left_join(new_cluster_df[, update_cols], by = "pr2_accession") %>%
