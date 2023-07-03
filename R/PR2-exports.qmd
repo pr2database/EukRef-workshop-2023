@@ -150,16 +150,24 @@ df <- tibble::tribble(
 )
 ```
 
-
-c("Ascomycota", "Basidiomycota", "Mucoromycota") class
-
 ```{r}
-pr2_fungi <- pr2_18S %>% 
-  filter(!(class %in% c("Ascomycota", "Basidiomycota", "Mucoromycota")) &
-         !(order %in% "Microsporida"))
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Cnidaria", "class",
+  "Ctenophora","class",
+  "Placozoa","class",
+  "Porifera","class"
+)
 ```
 
-
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Metchnikovellida", "order"
+)
+```
 
 
 
@@ -208,6 +216,27 @@ Chloropicophyceae
 [1] "Number of sequences exported - annotated: 298"
 [1] "Number of sequences exported - other: 107"
 
+
+Fungi 
+[1] "Number of sequences exported - annotated: 2536"
+[1] "Number of sequences exported - other: 3238"
+
+Cnidaria 
+[1] "Number of sequences exported - annotated: 1956"
+[1] "Number of sequences exported - other: 1821"
+
+Ctenophora 
+[1] "Number of sequences exported - annotated: 82"
+[1] "Number of sequences exported - other: 130"
+
+Placozoa 
+[1] "Number of sequences exported - annotated: 13"
+[1] "Number of sequences exported - other: 0"
+
+Porifera 
+[1] "Number of sequences exported - annotated: 1082"
+[1] "Number of sequences exported - other: 480"
+
 ```{r, eval=FALSE}
 
   # taxa = c("Picozoa")
@@ -225,7 +254,39 @@ Chloropicophyceae
 
 
 
+## Fungi
 
+```{r}
+pr2_fungi <- pr2_18S %>% 
+  filter(!(class %in% c("Ascomycota", "Basidiomycota", "Mucoromycota")) &
+         !(order %in% "Microsporida") &
+         !(class_bayes %in% c("Ascomycota", "Basidiomycota", "Mucoromycota")) &
+         !(order_bayes %in% "Microsporida")
+           )
+```
+
+```{r}
+df_fungi <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Fungi", "subdivision"
+)
+```
+
+
+```{r, eval=FALSE}
+
+  # taxa = c("Picozoa")
+  # taxo_level = "division"
+  # pr2_export ( pr2_18S, 
+  #              taxa = taxa,
+  #              taxo_level = taxo_level)
+  
+  result <- purrr::map2(df_fungi$taxa, df_fungi$taxo_level, ~ pr2_export ( pr2_fungi, taxa = .x, taxo_level = .y))
+
+
+  
+```
 
 
 
