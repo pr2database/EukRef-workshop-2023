@@ -1,7 +1,7 @@
 ---
-title: PR2 Exports for EukRef
-author: Daniel Vaulot
-date: '`r format(Sys.time(), %d %m %Y)`'
+title: "PR2 Exports for EukRef""
+author: "Daniel Vaulot"
+date: '`r format(Sys.time(), "%d %m %Y")`'
 ---
 # Goal
 This NoteBook allows to exports specific groups of data from PR2
@@ -13,7 +13,7 @@ Load the variables common to the different scripts and the necessary libraries
   source('PR2_init.R', echo=FALSE)
   # source('PR2_read.R', echo=FALSE)
   # source('PR2_read_google.R', echo=FALSE)
-  pr2_18S <- qs::qread(here::here(databases, pr2_18S.qs)) 
+  pr2_18S <- qs::qread(here::here("databases", "pr2_18S.qs")) 
 
 ```
 
@@ -22,18 +22,18 @@ Load the variables common to the different scripts and the necessary libraries
 # Export function
 
 pr2_export <- function(pr2,  
-                       taxo_level=class,
-                       taxa = c(Pelagophyceae),
+                       taxo_level="class",
+                       taxa = c("Pelagophyceae"),
                        compress = TRUE,
                        taxo_include = FALSE
                        ){
-  taxa_string = str_c(taxa, sep=_)
+  taxa_string = str_c(taxa, sep="_")
   
-  file_head = here::here(exports, taxa_string, pr2_export)
+  file_head = here::here("exports", taxa_string, "pr2_export")
   
-  try(fs::dir_create(here::here(exports,taxa_string)))
+  try(fs::dir_create(here::here("exports",taxa_string)))
   
-  taxo_level_bayes = str_c(taxo_level, _bayes)
+  taxo_level_bayes = str_c(taxo_level, "_bayes")
    
   pr2_export_annotated <- pr2 %>% 
     filter(!is.na(species),
@@ -45,7 +45,7 @@ pr2_export <- function(pr2,
            .data[[taxo_level_bayes]] %in% taxa) %>% 
     mutate(pr2_annotated = FALSE) %>% 
     select(!(domain:species)) %>% 
-    rename_with(~ str_replace(.x, _bayes, ), contains(_bayes))
+    rename_with(~ str_replace(.x, "_bayes", ""), contains("_bayes"))
   
   pr2_export <- bind_rows(pr2_export_annotated, pr2_export_unannotated) %>% 
   # filter(!is.na(domain)) %>%   # Remove data that are not annotated yet
@@ -53,7 +53,7 @@ pr2_export <- function(pr2,
   arrange(domain, supergroup, division, subdivision, class, order, family, genus, species) %>% 
   relocate(species_old, .after = species) %>% 
   relocate(pr2_annotated, .after = species) %>% 
-  select(-starts_with(taxo_))
+  select(-starts_with("taxo_"))
   
   pr2_export_taxonomy <- pr2_export %>% count(supergroup, division, subdivision, 
                                               class, order, family, genus, species)
@@ -64,34 +64,34 @@ pr2_export <- function(pr2,
   
   # pr2_export_fasta_other <- pr2_export %>% 
   #   filter(is.na(species)) %>% 
-  #   mutate(seq_name=str_c(pr2_accession, gb_definition , sep = |)) %>% 
+  #   mutate(seq_name=str_c(pr2_accession, gb_definition , sep = "|")) %>% 
   #   select(seq_name, sequence) 
   
   pr2_export_metadata <- pr2_export # %>%
     # select(pr2_accession:organelle, kingdom:genus, species, chimera:remark, taxon_trophic_mode:metadata_remark)
-    # select(-contains(_8), -contains(boot))
+    # select(-contains("_8"), -contains("boot"))
     # select(-sequence)
     
   pr2_export_txt <- pr2_export %>% 
     mutate(tax = str_c(domain, supergroup, division, subdivision, 
                        class, order, family, genus, species, 
-                       sep = ; )) %>% 
+                       sep = "; ")) %>% 
     select(pr2_accession, tax)
   
-  export(list(taxonomy=pr2_export_taxonomy, metadata=pr2_export_metadata), 
-         file = str_c(file_head, .xlsx),
-         zoom=80, firstActiveRow = 2, firstActiveCol = 12, colWidths=auto,
+  export(list("taxonomy"=pr2_export_taxonomy, "metadata"=pr2_export_metadata), 
+         file = str_c(file_head, ".xlsx"),
+         zoom=80, firstActiveRow = 2, firstActiveCol = 12, colWidths="auto",
          overwrite = TRUE
          )
-  if (compress) file_ext = .fas.gz else .fas
+  if (compress) file_ext = ".fas.gz" else ".fas"
   dvutils::fasta_write(pr2_export_fasta_annotated, str_c(file_head, file_ext), compress, taxo_include)
-  # dvutils::fasta_write(pr2_export_fasta_other, str_c(file_head, _other, file_ext), compress, FALSE)
+  # dvutils::fasta_write(pr2_export_fasta_other, str_c(file_head, "_other", file_ext), compress, FALSE)
   
-  readr::write_tsv(pr2_export_txt, str_c(file_head, .txt), quote = all)
+  readr::write_tsv(pr2_export_txt, str_c(file_head, ".txt"), quote = "all")
   
-  cat(taxa_string, \n)
-  print(str_c(Number of sequences exported - annotated: , nrow(pr2_export_annotated)))
-  print(str_c(Number of sequences exported - other: , nrow(pr2_export_unannotated)))
+  cat(taxa_string, "\n")
+  print(str_c("Number of sequences exported - annotated: ", nrow(pr2_export_annotated)))
+  print(str_c("Number of sequences exported - other: ", nrow(pr2_export_unannotated)))
   
   return(NULL)
 }
@@ -105,61 +105,113 @@ pr2_export <- function(pr2,
 df <- tibble::tribble(
   ~taxa, ~taxo_level,
   #--|--|----
-  Picozoa, division,
-  Chlorophyta,division,
-  Amoebozoa, supergroup,
-  Microsporida, order,
-  Rhodophyta,division,
-  Suessiales, order,
-  Dinophyceae, class,
-  Metazoa, subdivision,
-  Fungi, subdivision
+  "Picozoa", "division",
+  "Chlorophyta","division",
+  "Amoebozoa", "supergroup",
+  "Microsporida", "order",
+  "Rhodophyta","division",
+  "Suessiales", "order",
+  "Dinophyceae", "class",
+  "Metazoa", "subdivision",
+  "Fungi", "subdivision"
+)
+```
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Microsporida", "order"
+)
+```
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Trebouxiophyceae", "class"
+)
+```
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Ceramiales", "order",
+  "Batrachospermales", "order"
+)
+```
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Chloropicophyceae", "class"
 )
 ```
 
 
+c("Ascomycota", "Basidiomycota", "Mucoromycota") class
+
+```{r}
+pr2_fungi <- pr2_18S %>% 
+  filter(!(class %in% c("Ascomycota", "Basidiomycota", "Mucoromycota")) &
+         !(order %in% "Microsporida"))
+```
+
+
+
+
+
 # Export results
 
-Picozoa
-Number of sequences exported - annotated: 293
-Number of sequences exported - other: 176
-
-Chlorophyta
-Number of sequences exported - annotated: 12184
-Number of sequences exported - other: 9646
-
-Amoebozoa
-Number of sequences exported - annotated: 3331
-Number of sequences exported - other: 9060
-
+Picozoa"
+Number of sequences exported - annotated: 293"
+Number of sequences exported - other: 176"
+Chlorophyta"
+Number of sequences exported - annotated: 12184"
+Number of sequences exported - other: 9646"
+Amoebozoa"
+Number of sequences exported - annotated: 3331"
+Number of sequences exported - other: 9060"
 Microsporida 
-Number of sequences exported - annotated: 1345
-Number of sequences exported - other: 2096
+Number of sequences exported - annotated: 1345"
+Number of sequences exported - other: 2096"
+Rhodophyta"
+Number of sequences exported - annotated: 2458"
+Number of sequences exported - other: 2986"
+Suessiales"
+Number of sequences exported - annotated: 542"
+Number of sequences exported - other: 594"
+Dinophyceae"
+Number of sequences exported - annotated: 7591"
+Number of sequences exported - other: 6062"
+Metazoa"
+Number of sequences exported - annotated: 47482"
+Number of sequences exported - other: 88321"
+Fungi"
+Number of sequences exported - annotated: 57020"
+Number of sequences exported - other: 101780"
 
-Rhodophyta
-Number of sequences exported - annotated: 2458
-Number of sequences exported - other: 2986
+Trebouxiophyceae 
+[1] "Number of sequences exported - annotated: 3072"
+[1] "Number of sequences exported - other: 2424"
 
-Suessiales
-Number of sequences exported - annotated: 542
-Number of sequences exported - other: 594
+Ceramiales 
+[1] "Number of sequences exported - annotated: 470"
+[1] "Number of sequences exported - other: 112"
+Batrachospermales 
+[1] "Number of sequences exported - annotated: 72"
+[1] "Number of sequences exported - other: 38"
 
-Dinophyceae
-Number of sequences exported - annotated: 7591
-Number of sequences exported - other: 6062
-
-Metazoa
-Number of sequences exported - annotated: 47482
-Number of sequences exported - other: 88321
-
-Fungi
-Number of sequences exported - annotated: 57020
-Number of sequences exported - other: 101780
+Chloropicophyceae 
+[1] "Number of sequences exported - annotated: 298"
+[1] "Number of sequences exported - other: 107"
 
 ```{r, eval=FALSE}
 
-  # taxa = c(Picozoa)
-  # taxo_level = division
+  # taxa = c("Picozoa")
+  # taxo_level = "division"
   # pr2_export ( pr2_18S, 
   #              taxa = taxa,
   #              taxo_level = taxo_level)
@@ -191,26 +243,26 @@ Number of sequences exported - other: 101780
  pr2_taxo_class <- pr2_taxo %>% 
   group_by (kingdom, supergroup, division, class) %>% 
   tally() %>% 
-   openxlsx::write.xlsx(file=../updates/2020 new taxonomy/pr2_taxonomy_class.xlsx, na=)
+   openxlsx::write.xlsx(file="../updates/2020 new taxonomy/pr2_taxonomy_class.xlsx", na="")
 ```
 
 
-Number of sequences exported - annotated: 1336
-Number of sequences exported - other: 521
+Number of sequences exported - annotated: 1336"
+Number of sequences exported - other: 521"
 
 ```{r, eval=FALSE}
 
-  target_group = Labyrinthulomycetes
+  target_group = "Labyrinthulomycetes"
 
   pr2_export <- pr2 %>% 
   filter(order == target_group |
          class_8_bayes == target_group |
          str_detect(silva_taxonomy, target_group),
          is.na(removed_version),
-         !str_detect(gb_organism, metagenome)) %>% 
+         !str_detect(gb_organism, "metagenome")) %>% 
   arrange(genbank_accession)
 
   pr2_export_xls ( pr2_export, 
-                   file_head = ../exports/pr2_Labys_2023-04-03)
+                   file_head = "../exports/pr2_Labys_2023-04-03")
   
 ```
