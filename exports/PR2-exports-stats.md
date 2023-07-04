@@ -113,3 +113,7 @@
     Picocystophyceae 
     [1] "Number of sequences exported - annotated: 19"
     [1] "Number of sequences exported - other: 8"
+
+    Chlorodendrophyceae 
+    [1] "Number of sequences exported - annotated: 244"
+    [1] "Number of sequences exported - other: 117"
