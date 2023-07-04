@@ -184,6 +184,13 @@ df <- tibble::tribble(
 ```
 
 
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Nucleophaga", "genus"
+)
+```
 
 # Export results
 
@@ -274,6 +281,11 @@ Stygamoebida
 [1] "Number of sequences exported - annotated: 13"
 [1] "Number of sequences exported - other: 27"
 
+
+Nucleophaga 
+[1] "Number of sequences exported - annotated: 2"
+[1] "Number of sequences exported - other: 9"
+
 ```{r, eval=FALSE}
 
   # taxa = c("Picozoa")
@@ -314,11 +326,20 @@ df_fungi <- tibble::tribble(
 
 ## Chloropicophyceae
 
+Chloropicophyceae 
+[1] "Number of sequences exported - annotated: 298"
+[1] "Number of sequences exported - other: 107"
+
+Picocystophyceae 
+[1] "Number of sequences exported - annotated: 19"
+[1] "Number of sequences exported - other: 8"
+
 ```{r}
 df <- tibble::tribble(
   ~taxa, ~taxo_level,
   #--|--|----
-  "Chloropicophyceae", "class"
+  # "Chloropicophyceae", "class",
+  "Picocystophyceae", "class"
 )
 ```
 
