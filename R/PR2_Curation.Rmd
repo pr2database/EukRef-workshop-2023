@@ -39,12 +39,12 @@ librarian::shelf(
 ## FUNCTIONS
 seq_clade <- function(x) {
   seq_clade <- Biostrings::DNAStringSet(x$sequence)
-  names(seq_clade) <- paste(x$pr2_accession, sep = "|")
+  names(seq_clade) <- paste(x$genbank_accession, sep = "|")
   Biostrings::writeXStringSet(seq_clade, "pr2_CLADE.fa", width = 80)
 }
 ```
 
-#### Unix Packages (via conda). If not installed already, please install minconda here: https://docs.conda.io/en/latest/miniconda.html
+#### Unix Packages (via conda). If not installed already, please install minconda here: https://docs.conda.io/en/latest/miniconda.html 
 Please change `~/miniconda2/bin` to the path of your miniconda bin.
 ```{r}
 Sys.setenv(PATH = paste("~/miniconda2/bin", Sys.getenv("PATH"), sep = ":"))
@@ -63,7 +63,7 @@ Please change `order   == "Suessiales"` to your lineage of interest. Adjust `Ord
 ```{r}
 setwd("~/PATH/TO/WORKING/DIRECTORY")
 pr2 <- pr2_database()
-Order   = pr2 %>% dplyr::filter(order   == "Suessiales") %>% dplyr::select(pr2_accession, sequence_length, sequence)
+Order   = pr2 %>% dplyr::filter(order   == "Suessiales") %>% dplyr::select(genbank_accession, sequence_length, sequence)
 seq_clade(Order)
 ```
 
@@ -83,13 +83,13 @@ raxmlHPC-PTHREADS-SSE3 -T 4 -m GTRCAT -c 25 -e 0.001 -p 31415 -f a -N 100 -x 029
 ## Step 2: Phylogenetic Tree Editing and Modification
 Download FigTree from http://tree.bio.ed.ac.uk/software/figtree/ and open your newly generated tree (RAxML_bipartitions.tre)
 
-Within this app you can view your tree, re-root it, and flip any branches.
+Within this app you can view your tree, re-root it, and flip any branches. 
 
 Upload an annotation file into figtree to color/label your branches according to PR2 taxonomy.
 An example annotation file can be found here: https://github.com/guyleonard/PR2-curation/blob/main/data/rename.txt
 
-You can generate your own using the excel here: https://github.com/pr2database/pr2database/releases/download/v5.0.0/pr2_version_5.0.0_merged.xlsx
-- Just filter according to your lineage of interest and create a new tab-deliminated file with the pr2 accession in column 1 and taxonomy in the following columns
+You can generate your own using the excel here: https://github.com/pr2database/pr2database/releases/download/v5.0.0/pr2_version_5.0.0_merged.xlsx 
+- Just filter according to your lineage of interest and create a new tab-deliminated file with the genebank accession in column 1 and taxonomy in the following columns
 
 You can also identify leafs for removal and continue below:
 
@@ -108,11 +108,11 @@ new_clu <- cluster[!cluster$V10 %in% del,]
 new_clu <- new_clu[!new_clu$V9 %in% del,]
 new_clu <- new_clu[!duplicated(new_clu$V9),]
 new_clu <- as.vector(new_clu$V9)
-
+    
 # Export PR2 file
 seq <- names(dataset)
 new_data <- dataset[seq %in% new_clu]
-
+    
 # Saving the sequences as a FA file
 Biostrings::writeXStringSet(new_data, "pr2_CLADE_modify.fa", width = 80)
 ```
@@ -127,9 +127,9 @@ setwd("~/PATH/TO/WORKING/DIRECTORY")
 library(readxl)
 library(writexl)
 library(dplyr)
-# Read the original sequences and their taxonomic annotations from the Excel file. This file is derived from merged pr2 filtered to your lineage
-original_sequences_file <- "lineage.xlsx"  
-original_sequences_df <- read_excel(original_sequences_file)
+# Read the original sequences and their taxonomic annotations from the Excel file.
+original_sequences_file <- "pr2_export.xlsx"  
+original_sequences_df <- read_excel(original_sequences_file, sheet="metadata")
 
 # Load the Cluster file data into a data frame called 'cluster_df'
 cluster_df <- read.delim("CLADE.cluster", header = FALSE, sep = "\t", stringsAsFactors = FALSE)
@@ -148,7 +148,7 @@ write_xlsx(representatives_df, export_file)
 ### 5B: Use this curation to propagate the taxonomic string to rest of accessions
 **MANUALLY CURATE THIS EXCEL WITH TREE INFO, then re-upload**
 ```{r}
-edited_file <- "/Volumes/GoogleDrive/My Drive/EukRef_Barcelona2023/representatives.xlsx"  # Update with the path to your edited Excel file
+edited_file <- "representatives.xlsx"  # Update with the path to your edited Excel file
 edited_representatives_df <- read_excel(edited_file)
 representatives <- unique(cluster_df$V10)
 representatives_df <- original_sequences_df[original_sequences_df$pr2_accession %in% representatives, ]
@@ -178,7 +178,7 @@ library(dplyr)
 new_cluster_df <- left_join(cluster_df, edited_representatives_df, by = c("V10" = "pr2_accession"))
 new_cluster_df <- distinct(new_cluster_df, V9, .keep_all = TRUE)
 new_cluster_df <- new_cluster_df %>%
-  rename(pr2_accessionn = V9)
+  rename(pr2_accession = V9)
 update_cols <- c("pr2_accession", "domain", "supergroup", "division", "subdivision", "class", "order", "family", "genus", "species")
 updated_original_sequences_df2 <- updated_original_sequences_df %>%
   left_join(new_cluster_df[, update_cols], by = "pr2_accession") %>%
