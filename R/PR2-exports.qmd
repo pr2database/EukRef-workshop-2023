@@ -192,6 +192,23 @@ df <- tibble::tribble(
 )
 ```
 
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Apicomplexa", "subdivision"
+)
+```
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Chrompodellids", "subdivision",
+  "Alveolata_X", "subdivision",
+)
+```
+
 # Export results
 
 Picozoa"
@@ -258,7 +275,6 @@ Porifera
 [1] "Number of sequences exported - annotated: 1082"
 [1] "Number of sequences exported - other: 480"
 
-Show in New Window
 Eumycetozoa 
 [1] "Number of sequences exported - annotated: 1122"
 [1] "Number of sequences exported - other: 2239"
@@ -285,6 +301,17 @@ Stygamoebida
 Nucleophaga 
 [1] "Number of sequences exported - annotated: 2"
 [1] "Number of sequences exported - other: 9"
+
+Apicomplexa 
+[1] "Number of sequences exported - annotated: 7430"
+[1] "Number of sequences exported - other: 14141"
+
+Chrompodellids 
+[1] "Number of sequences exported - annotated: 2067"
+[1] "Number of sequences exported - other: 288"
+Alveolata_X 
+[1] "Number of sequences exported - annotated: 36"
+[1] "Number of sequences exported - other: 28"
 
 ```{r, eval=FALSE}
 
