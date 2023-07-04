@@ -65,49 +65,12 @@ In addition columns:
   and false if it is not been annotated
 - `species_old` should not be changed if you edit the species column
 
-### Groups exported
+## List of Exported taxa
 
-#### Picozoa
+## PR2 curation pipeline
 
-- Number of sequences exported - annotated: 293
-- Number of sequences exported - other: 176
+[PR2_Curation.Rmd](R/PR2_Curation.Rmd)
 
-#### Chlorophyta
+## Groups exported
 
-- Number of sequences exported - annotated: 12184
-- Number of sequences exported - other: 9646
-
-#### Amoebozoa
-
-- Number of sequences exported - annotated: 3331
-- Number of sequences exported - other: 9060
-
-#### Microsporida
-
-- Number of sequences exported - annotated: 1345
-- Number of sequences exported - other: 2096
-
-#### Rhodophyta
-
-- Number of sequences exported - annotated: 2458
-- Number of sequences exported - other: 2986
-
-#### Suessiales
-
-- Number of sequences exported - annotated: 542
-- Number of sequences exported - other: 594
-
-#### Dinophyceae
-
-- Number of sequences exported - annotated: 7591
-- Number of sequences exported - other: 6062
-
-#### Metazoa
-
-- Number of sequences exported - annotated: 47482
-- Number of sequences exported - other: 88321
-
-#### Fungi
-
-- Number of sequences exported - annotated: 57020
-- Number of sequences exported - other: 101780
+[PR2-exports-stats.md](exports/PR2-exports-stats.md)
