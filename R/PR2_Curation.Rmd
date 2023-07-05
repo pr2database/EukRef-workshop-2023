@@ -135,7 +135,7 @@ original_sequences_df <- read_excel(original_sequences_file, sheet="metadata")
 cluster_df <- read.delim("CLADE.cluster", header = FALSE, sep = "\t", stringsAsFactors = FALSE)
 
 # Extract the rows of the representative sequences for each cluster from the original sequences data frame
-representatives <- unique(cluster_df$V10)
+representatives <- unique(cluster_df$V9[cluster_df$V10=="*"])
 representatives_df <- original_sequences_df[original_sequences_df$pr2_accession %in% representatives, ]
 
 # Specify the output file path for the exported Excel file
@@ -150,7 +150,7 @@ write_xlsx(representatives_df, export_file)
 ```{r}
 edited_file <- "representatives.xlsx"  # Update with the path to your edited Excel file
 edited_representatives_df <- read_excel(edited_file)
-representatives <- unique(cluster_df$V10)
+representatives <- unique(cluster_df$V9[cluster_df$V10=="*"])
 representatives_df <- original_sequences_df[original_sequences_df$pr2_accession %in% representatives, ]
 
 # Select the relevant columns from edited_representatives_df
