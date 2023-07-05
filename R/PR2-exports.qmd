@@ -24,6 +24,7 @@ Load the variables common to the different scripts and the necessary libraries
 pr2_export <- function(pr2,  
                        taxo_level="class",
                        taxa = c("Pelagophyceae"),
+                       pr2_accession_exclude = NULL,
                        compress = TRUE,
                        taxo_include = FALSE
                        ){
@@ -31,18 +32,22 @@ pr2_export <- function(pr2,
   
   file_head = here::here("exports", taxa_string, "pr2_export")
   
+  print(file_head)
+  
   try(fs::dir_create(here::here("exports",taxa_string)))
   
   taxo_level_bayes = str_c(taxo_level, "_bayes")
    
   pr2_export_annotated <- pr2 %>% 
     filter(!is.na(species),
-           .data[[taxo_level]] %in% taxa) %>% 
+           .data[[taxo_level]] %in% taxa,
+           !(pr2_accession %in% pr2_accession_exclude)) %>% 
     mutate(pr2_annotated = TRUE)
   
   pr2_export_unannotated <- pr2 %>%  
     filter(is.na(species),
-           .data[[taxo_level_bayes]] %in% taxa) %>% 
+           .data[[taxo_level_bayes]] %in% taxa, 
+           !(pr2_accession %in% pr2_accession_exclude)) %>% 
     mutate(pr2_annotated = FALSE) %>% 
     select(!(domain:species)) %>% 
     rename_with(~ str_replace(.x, "_bayes", ""), contains("_bayes"))
@@ -78,6 +83,11 @@ pr2_export <- function(pr2,
                        sep = "; ")) %>% 
     select(pr2_accession, tax)
   
+    
+  cat(taxa_string, "\n")
+  print(str_c("Number of sequences exported - annotated: ", nrow(pr2_export_annotated)))
+  print(str_c("Number of sequences exported - other: ", nrow(pr2_export_unannotated)))
+  
   export(list("taxonomy"=pr2_export_taxonomy, "metadata"=pr2_export_metadata), 
          file = str_c(file_head, ".xlsx"),
          zoom=80, firstActiveRow = 2, firstActiveCol = 12, colWidths="auto",
@@ -88,10 +98,7 @@ pr2_export <- function(pr2,
   # dvutils::fasta_write(pr2_export_fasta_other, str_c(file_head, "_other", file_ext), compress, FALSE)
   
   readr::write_tsv(pr2_export_txt, str_c(file_head, ".txt"), quote = "all")
-  
-  cat(taxa_string, "\n")
-  print(str_c("Number of sequences exported - annotated: ", nrow(pr2_export_annotated)))
-  print(str_c("Number of sequences exported - other: ", nrow(pr2_export_unannotated)))
+
   
   return(NULL)
 }
@@ -272,60 +279,16 @@ df_fungi <- tibble::tribble(
 
 ## Chloropicophyceae
 
-```{r}
-df <- tibble::tribble(
-  ~taxa, ~taxo_level,
-  #--|--|----
-  # "Chloropicophyceae", "class",
-  "Picocystophyceae", "class"
-)
-```
-
 
 ```{r, eval=FALSE}
 
-  result <- purrr::map2(df$taxa, df$taxo_level, 
-                        ~ pr2_export ( pr2_18S, taxa = .x, taxo_level = .y, 
-                                       taxo_include = TRUE, compress = FALSE))
+  result <- pr2_export ( pr2_18S, 
+                         taxa = c("Chloropicophyceae", "Picocystophyceae"), 
+                         taxo_level = "class", 
+                         pr2_accession_exclude = c("MW405202.1.738_U", "MW405201.1.741_U", "MT489379.1.1654_U"),
+                         taxo_include = TRUE, compress = FALSE)
 
-
-  
 ```
 
 
 
-# ==========================================================
-
-#   NOT USED
-
-# ==========================================================
-
-# Taxonomy
-
-```{r}
- pr2_taxo_class <- pr2_taxo %>% 
-  group_by (kingdom, supergroup, division, class) %>% 
-  tally() %>% 
-   openxlsx::write.xlsx(file="../updates/2020 new taxonomy/pr2_taxonomy_class.xlsx", na="")
-```
-
-
-Number of sequences exported - annotated: 1336"
-Number of sequences exported - other: 521"
-
-```{r, eval=FALSE}
-
-  target_group = "Labyrinthulomycetes"
-
-  pr2_export <- pr2 %>% 
-  filter(order == target_group |
-         class_8_bayes == target_group |
-         str_detect(silva_taxonomy, target_group),
-         is.na(removed_version),
-         !str_detect(gb_organism, "metagenome")) %>% 
-  arrange(genbank_accession)
-
-  pr2_export_xls ( pr2_export, 
-                   file_head = "../exports/pr2_Labys_2023-04-03")
-  
-```
