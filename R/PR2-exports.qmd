@@ -217,22 +217,33 @@ df <- tibble::tribble(
 )
 ```
 
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Chlorodendrophyceae", "class"
+)
+```
+
+```{r}
+df <- tibble::tribble(
+  ~taxa, ~taxo_level,
+  #--|--|----
+  "Chytridiomycota", "class"
+)
+```
+
+
+
 # Export results
 
 
 
 ```{r, eval=FALSE}
 
-  # taxa = c("Picozoa")
-  # taxo_level = "division"
-  # pr2_export ( pr2_18S, 
-  #              taxa = taxa,
-  #              taxo_level = taxo_level)
-  
   result <- purrr::map2(df$taxa, df$taxo_level, ~ pr2_export ( pr2_18S, taxa = .x, taxo_level = .y))
 
-
-  
 ```
 ## Fungi
 

@@ -117,3 +117,8 @@
     Chlorodendrophyceae 
     [1] "Number of sequences exported - annotated: 244"
     [1] "Number of sequences exported - other: 117"
+
+    Show in New Window
+    Chytridiomycota 
+    [1] "Number of sequences exported - annotated: 1423"
+    [1] "Number of sequences exported - other: 1466"
