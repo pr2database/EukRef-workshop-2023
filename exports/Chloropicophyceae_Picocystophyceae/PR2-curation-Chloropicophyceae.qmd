@@ -1,0 +1,96 @@
+---
+title: "PR2-curation"
+format: html
+---
+
+# Step 1: Creation of Phylogenetic Tree
+
+```{bash}
+
+srun --mem=64G  --cpus-per-task=32 run_tree.sh
+
+```
+
+# Step 2
+
+* Use TreeViewer to load the tree
+* Use Geneious to visualize alignement
+* Annotate directly on cluster file
+
+# Step 3 - Create unique annotation file
+
+```{r}
+
+library(tidyverse)
+
+```
+
+
+## Files
+
+```{r}
+file_path <- function(file_name) here::here("Chloropicophyceae", file_name)
+
+file_annotation = file_path("Chloropicophyceae-pr2_export_annotated.xlsx")
+  
+file_cluster = file_path("Chloropicophyceae-clusters.xlsx")
+
+file_pr2_update_fasta = file_path("Chloropicophyceae_updated.fas")
+
+file_pr2_update_txt = file_path("Chloropicophyceae_updated.txt")
+  
+file_pr2_main_updated = file_path("Chloropicophyceae_pr2_main_updated.xlsx")
+
+```
+
+
+## Read files
+
+
+```{r}
+
+pr2_annotation = rio::import(file_annotation, sheet = "metadata") 
+
+pr2_cluster = rio::import(file_cluster, sheet = "99.5 edited") %>% 
+  select(pr2_accession, species_updated)
+
+```
+
+## Update species
+
+```{r}
+
+pr2_updated <- pr2_annotation %>% 
+  left_join(pr2_cluster) %>% 
+  relocate(species_updated, .after = "species") %>% 
+  mutate(species_final = case_when(!is.na(species_updated) ~ species_updated,
+                              TRUE ~ species))   %>% 
+  relocate(species_final, .after = "species")  %>% 
+  filter(!is.na(species_final)) # Some sequence have been ruled out (chimeras)
+
+# Save fasta file of updated sequences
+pr2_updated %>% 
+  mutate(seq_name = pr2_accession) %>% 
+  dvutils::fasta_write(file_pr2_update_fasta, compress=FALSE, taxo_include=FALSE)
+
+# Save file for treeview annotations (the first column title should be left empty)
+pr2_updated %>% 
+  select(name = pr2_accession, 
+         species= species_final,
+         gb_strain,
+         pr2_ocean) %>% 
+  readr::write_delim(file_pr2_update_txt, na=" ", delim = ";")
+
+
+pr2_updated %>% 
+  filter(!is.na(species_updated)) %>% 
+  select(pr2_accession, species=species_updated, edited_version, edited_by, edited_remark) %>% 
+  mutate(edited_version = str_replace(str_c(replace_na(edited_version, ""), "5.1.0", sep=";"), "^[;]", ""),
+         edited_by = str_replace(str_c(replace_na(edited_by, ""), "D. Vaulot", sep=";"), "^[;]", ""),
+         edited_remark = str_replace(str_c(replace_na(edited_remark, ""), "EukRef-2023-Barcelona", sep=";"), "^[;]", "")
+         ) %>% 
+  rio::export(file_pr2_main_updated)
+
+
+```
+

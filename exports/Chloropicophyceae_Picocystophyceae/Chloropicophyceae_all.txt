@@ -1,0 +1,425 @@
+Name;species;gb_strain;pr2_ocean
+JX188278.1.1748_U;Chloroparvula_B2_sp.; ;Pacific Ocean
+HM474478.1.867_U;Chloroparvula_B3_sp.; ;Pacific Ocean
+FJ537474.1.838_U;Chloroparvula_B2_sp.; ;Pacific Ocean
+JX188313.1.1769_U;Chloroparvula_B2_sp.; ;Pacific Ocean
+AJ402345.1.1758_U;Chloropicon_A6_sp.; ; 
+AB180203.1.1703_U;Chloroparvula_B2_sp.; ; 
+KT860688.1.690_U;Chloroparvula_B2_sp.;RCC696; 
+KT860793.1.524_U;Chloroparvula_B2_sp.;RCC2337; 
+JX291894.1.730_U;Chloroparvula_B2_sp.; ; 
+KU843577.1.1935_U;Chloroparvula_B2_sp.;RCC696; 
+KU843587.1.1934_U;Chloroparvula_B2_sp.;RCC999; 
+KU843593.1.1627_U;Chloroparvula_B2_sp.;RCC2337; 
+GQ382526.1.613_U;Chloroparvula_B2_sp.; ; 
+KF031587.1.1745_U;Chloroparvula_B3_sp.; ;Pacific Ocean
+FJ537305.1.1754_U;Chloroparvula_B3_sp.; ;Pacific Ocean
+JX188277.1.1745_U;Chloroparvula_B3_sp.; ;Pacific Ocean
+FJ537308.1.1753_U;Chloroparvula_B3_sp.; ;Pacific Ocean
+MF077476.1.1611_U;Chloroparvula_B3_sp.;RCC4572; 
+AY535040.1.585_U;Chloroparvula_B3_sp.; ; 
+AY872268.1.559_U;Chloroparvula_B3_sp.; ; 
+FJ537672.1.767_U;Chloroparvula_B3_sp.; ; 
+FJ537466.1.737_U;Chloroparvula_B3_sp.; ; 
+FJ537461.1.713_U;Chloroparvula_B3_sp.; ; 
+FJ537679.1.650_U;Chloroparvula_B3_sp.; ; 
+GU433149.1.562_U;Chloroparvula_pacifica; ; 
+HM227655.1.506_U;Chloroparvula_pacifica; ; 
+JQ243129.1.576_U;Chloroparvula_B3_sp.; ; 
+GU823721.1.1062_U;Chloroparvula_japonica; ;Atlantic Ocean
+KF422628.1.1643_U;Chloroparvula_japonica;RCC2339; 
+FJ537357.1.1785_U;Chloroparvula_pacifica; ;Pacific Ocean
+JX188291.1.1768_U;Chloroparvula_pacifica; ;Pacific Ocean
+GQ863825.1.1682_U;Chloroparvula_pacifica; ; 
+FJ537359.1.806_U;Chloroparvula_pacifica; ;Pacific Ocean
+EU143502.1.899_U;Chloroparvula_pacifica; ;Atlantic Ocean
+EU143503.1.899_U;Chloroparvula_pacifica; ;Atlantic Ocean
+KF031912.1.1748_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537298.1.1778_U;Chloroparvula_pacifica; ;Pacific Ocean
+AJ402358.1.1758_U;Chloroparvula_pacifica; ; 
+GU823975.1.1064_U;Chloroparvula_pacifica; ;Atlantic Ocean
+FJ537306.1.1756_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537464.1.852_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537372.1.810_U;Chloroparvula_pacifica; ;Pacific Ocean
+AJ402359.1.1758_U;Chloroparvula_pacifica; ; 
+GU825421.1.1064_U;Chloroparvula_pacifica; ;Atlantic Ocean
+FJ537299.1.1730_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537687.1.831_U;Chloroparvula_pacifica; ;Pacific Ocean
+AY046849.1.1190_U;Chloroparvula_pacifica; ; 
+FJ537458.1.814_U;Chloroparvula_pacifica; ;Pacific Ocean
+JX188279.1.1748_U;Chloroparvula_pacifica; ;Pacific Ocean
+KF031603.1.1748_U;Chloroparvula_pacifica; ;Pacific Ocean
+EU143501.1.898_U;Chloroparvula_pacifica; ;Atlantic Ocean
+KF031720.1.1747_U;Chloroparvula_pacifica; ;Pacific Ocean
+JX188318.1.1748_U;Chloroparvula_pacifica; ;Pacific Ocean
+JX188375.1.1747_U;Chloroparvula_pacifica; ;Pacific Ocean
+KF031705.1.1747_U;Chloroparvula_pacifica; ;Pacific Ocean
+KF129960.1.1748_U;Chloroparvula_pacifica; ;Pacific Ocean
+KF130485.1.1748_U;Chloroparvula_pacifica; ;Pacific Ocean
+KJ760716.1.1777_U;Chloroparvula_pacifica; ;Pacific Ocean
+KJ760840.1.1786_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537360.1.684_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537362.1.768_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537369.1.747_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537371.1.699_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537376.1.680_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537382.1.730_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537450.1.745_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537459.1.699_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537462.1.722_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537463.1.708_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537467.1.724_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537684.1.750_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537686.1.710_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537691.1.686_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537693.1.760_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537694.1.701_U;Chloroparvula_pacifica; ;Pacific Ocean
+FJ537700.1.728_U;Chloroparvula_pacifica; ;Pacific Ocean
+HM856966.1.668_U;Chloroparvula_pacifica; ;Pacific Ocean
+HM858770.1.545_U;Chloroparvula_pacifica; ;Pacific Ocean
+KP404670.1.1765_U;Chloroparvula_pacifica; ;Pacific Ocean
+KP404671.1.1768_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063955.1.742_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063957.1.720_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063958.1.675_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063959.1.688_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063960.1.699_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063962.1.720_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063963.1.722_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063964.1.755_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063966.1.732_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063967.1.701_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063968.1.695_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063969.1.722_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063970.1.742_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063971.1.754_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063973.1.731_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063977.1.771_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063978.1.754_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063979.1.731_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063986.1.731_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063990.1.687_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063992.1.718_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR063997.1.722_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064005.1.718_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064008.1.722_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064012.1.718_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064014.1.742_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064066.1.718_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064101.1.699_U;Chloroparvula_pacifica; ;Pacific Ocean
+KR064106.1.692_U;Chloroparvula_pacifica; ;Pacific Ocean
+KU843574.1.1626_U;Chloroparvula_pacifica;NIES-3669; 
+KX014643.1.997_U;Chloroparvula_B3_sp.;RCC4572; 
+AY535036.1.585_U;Chloroparvula_pacifica; ; 
+AY535039.1.585_U;Chloroparvula_pacifica; ; 
+CETT01033030.1.1100_U;Chloroparvula_pacifica; ; 
+CESV01079178.1.1108_U;Chloroparvula_pacifica; ; 
+CEWG01051592.1.1114_U;Chloroparvula_pacifica; ; 
+CEWJ01018001.1.1114_U;Chloroparvula_pacifica; ; 
+CEUO01054667.1.1135_U;Chloroparvula_pacifica; ; 
+FJ537699.1.630_U;Chloroparvula_pacifica; ; 
+HM858780.1.634_U;Chloroparvula_pacifica; ; 
+HM856969.1.591_U;Chloroparvula_pacifica; ; 
+HM858704.1.580_U;Chloroparvula_pacifica; ; 
+KP404817.1.1686_U;Chloroparvula_pacifica; ; 
+KR063953.1.596_U;Chloroparvula_pacifica; ; 
+KR063961.1.676_U;Chloroparvula_pacifica; ; 
+KR063965.1.658_U;Chloroparvula_pacifica; ; 
+KR064105.1.641_U;Chloroparvula_pacifica; ; 
+KR063956.1.664_U;Chloroparvula_pacifica; ; 
+KR064067.1.513_U;Chloroparvula_pacifica; ; 
+KU200623.1.734_U;Chloroparvula_pacifica; ; 
+KU200478.1.766_U;Chloroparvula_pacifica; ; 
+KU200650.1.771_U;Chloroparvula_pacifica; ; 
+KT860673.1.1749_U;Chloroparvula_B2_sp.;RCC298;Atlantic Ocean
+GU824462.1.1389_U;Chloropicon_laureae; ;Atlantic Ocean
+GU825006.1.1197_U;Chloropicon_laureae; ;Atlantic Ocean
+EU106833.1.819_U;Chloropicon_laureae;"RCC1021; Roscoff Culture Collection, France";Pacific Ocean
+GU824263.1.1066_U;Chloropicon_laureae; ;Atlantic Ocean
+KF422631.1.1635_U;Chloropicon_laureae;RCC856; 
+KF899839.1.1606_U;Chloropicon_laureae;RCC701; 
+KF899843.1.1609_U;Chloropicon_laureae;CCMP2175; 
+KT860875.1.1609_U;Chloropicon_laureae;RCC227; 
+KT860686.1.503_U;Chloropicon_laureae;RCC700; 
+KT860855.1.1606_U;Chloropicon_laureae;RCC19; 
+KP269869.1.839_U;Chloropicon_laureae; ;Atlantic Ocean
+KU843578.1.1607_U;Chloropicon_laureae;RCC700; 
+KU843589.1.1607_U;Chloropicon_laureae;RCC1021; 
+MF077474.1.1620_U;Chloropicon_laureae;RCC702-C4; 
+KU743498.1.1778_U;Chloropicon_laureae; ; 
+KX523150.1.523_U;Chloropicon_laureae; ; 
+KU743554.1.1778_U;Chloropicon_laureae; ; 
+KF031597.1.1741_U;Chloropicon_mariensis; ;Pacific Ocean
+KF422632.1.2167_U;Chloropicon_mariensis;RCC998; 
+KT860933.1.621_U;Chloropicon_mariensis;RCC719; 
+KT860935.1.2170_U;Chloropicon_mariensis;RCC997; 
+KT860929.1.648_U;Chloropicon_mariensis;RCC712; 
+HM474428.1.796_U;Chloropicon_mariensis; ;Pacific Ocean
+KU843579.1.2152_U;Chloropicon_mariensis;RCC712; 
+KU843580.1.2155_U;Chloropicon_mariensis;RCC713; 
+KU843582.1.2058_U;Chloropicon_mariensis;RCC719; 
+EU106824.1.779_U;Chloropicon_mariensis;"RCC998; Roscoff Culture Collection, France"; 
+MW404387.1.1730_U; ;MCS-2; 
+MW441228.1.2231_U; ;MCS-35; 
+JX188315.1.1762_U;Chloropicon_maureeniae; ;Pacific Ocean
+KU843595.1.1695_U;Chloropicon_maureeniae;RCC3374; 
+FJ785951.1.503_U;Chloropicon_A6_sp.; ; 
+KF031579.1.1739_U;Chloropicon_primus; ;Pacific Ocean
+KF031895.1.1739_U;Chloropicon_primus; ;Pacific Ocean
+KF031864.1.1739_U;Chloropicon_primus; ;Pacific Ocean
+U40921.1.1770_U;Chloropicon_primus;CCMP 1205; 
+KT860872.1.1610_U;Chloropicon_primus;RCC138; 
+KU843581.1.1635_U;Chloropicon_primus;RCC717; 
+KT860723.1.600_U;Chloropicon_primus;RCC1724;Atlantic Ocean
+AB694647.1.500_U;Chloropicon_sp.; ; 
+FJ537643.1.565_U;Chloropicon_sieburthii; ; 
+KJ760605.1.1778_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KU743555.1.1780_U;Chloropicon_sp.; ; 
+KR064257.1.687_U;Chloropicon_sieburthii; ; 
+KU743556.1.1778_U;Chloropicon_primus; ; 
+KU743497.1.1780_U;Chloropicon_sp.; ; 
+KF031618.1.1740_U;Chloropicon_roscoffensis; ;Pacific Ocean
+JX188307.1.1760_U;Chloropicon_roscoffensis; ;Pacific Ocean
+AY425303.1.1754_U;Chloropicon_roscoffensis; ; 
+KF031646.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031630.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+GU072479.1.926_U;Chloropicon_roscoffensis; ;Indian Ocean
+KF031750.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031598.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474432.1.803_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474425.1.814_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031776.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031925.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031916.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031730.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031921.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031918.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031901.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031775.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474450.1.810_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031605.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031809.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+FJ537309.1.1748_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474449.1.818_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474446.1.820_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031770.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031629.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031725.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031791.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474424.1.817_U;Chloropicon_roscoffensis; ;Pacific Ocean
+FJ997211.1.1632_U;Chloropicon_roscoffensis;RCC917;Pacific Ocean
+KF031642.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031613.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+AY256239.1.1214_U;Chloropicon_roscoffensis; ; 
+KF031628.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474436.1.834_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031574.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031580.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+GU823949.1.1065_U;Chloropicon_roscoffensis; ;Atlantic Ocean
+KF031592.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+GU825380.1.1389_U;Chloropicon_roscoffensis; ;Atlantic Ocean
+KF031749.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KC583085.1.1776_U;Chloropicon_roscoffensis; ;Indian Ocean
+KF031726.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+GU825094.1.1195_U;Chloropicon_roscoffensis; ;Atlantic Ocean
+KF031745.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031647.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474447.1.897_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031792.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031576.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474421.1.860_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031798.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+HM474422.1.879_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031652.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031590.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031594.1.1738_U;Chloropicon_roscoffensis; ;Pacific Ocean
+JX188374.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF031689.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+JX188276.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KC583084.1.1776_U;Chloropicon_roscoffensis; ;Indian Ocean
+KF422627.1.1636_U;Chloropicon_roscoffensis;RCC2335; 
+KF899840.1.1620_U;Chloropicon_roscoffensis;RCC1871; 
+KF129935.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF129957.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF615770.1.1739_U;Chloropicon_roscoffensis;CCMP1998; 
+KJ760431.1.1779_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KJ760528.1.1778_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KJ760562.1.1778_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KJ760564.1.1780_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KJ760682.1.1778_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KJ761285.1.1778_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KJ761693.1.1778_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KT860817.1.672_U;Chloropicon_roscoffensis;RCC722; 
+KT860692.1.620_U;Chloropicon_roscoffensis;RCC726; 
+KT860719.1.710_U;Chloropicon_roscoffensis;RCC1124; 
+KU843573.1.1588_U;Chloropicon_roscoffensis;NIES-3668; 
+KU843575.1.1625_U;Chloropicon_roscoffensis;NIES-3670; 
+KU843583.1.1456_U;Chloropicon_roscoffensis;RCC722; 
+KU843584.1.1633_U;Chloropicon_roscoffensis;RCC726; 
+KU843592.1.1634_U;Chloropicon_roscoffensis;RCC1124; 
+KU843594.1.1623_U;Chloropicon_roscoffensis;RCC3373; 
+KU843597.1.1674_U;Chloropicon_roscoffensis;RCC4429; 
+KU843598.1.1638_U;Chloropicon_roscoffensis;RCC4430; 
+MH792068.1.1622_U;Chloropicon_roscoffensis;RCC3632;Atlantic Ocean
+MH792069.1.1615_U;Chloropicon_roscoffensis;RCC3633;Atlantic Ocean
+MN604334.1.589_U;Chloropicon_roscoffensis;RCC6306;Atlantic Ocean
+AY295557.1.542_U;Chloropicon_roscoffensis; ; 
+AY295561.1.775_U;Chloropicon_roscoffensis; ; 
+FJ537460.1.795_U;Chloropicon_roscoffensis; ; 
+FJ537476.1.718_U;Chloropicon_roscoffensis; ; 
+FJ537471.1.780_U;Chloropicon_roscoffensis; ; 
+HM474429.1.784_U;Chloropicon_roscoffensis; ; 
+HM474433.1.792_U;Chloropicon_roscoffensis; ; 
+HM474435.1.770_U;Chloropicon_roscoffensis; ; 
+HM474443.1.693_U;Chloropicon_roscoffensis; ; 
+HM474427.1.769_U;Chloropicon_roscoffensis; ; 
+HM474431.1.726_U;Chloropicon_roscoffensis; ; 
+HM474437.1.776_U;Chloropicon_roscoffensis; ; 
+HM474441.1.750_U;Chloropicon_roscoffensis; ; 
+HM474445.1.742_U;Chloropicon_roscoffensis; ; 
+HM474434.1.753_U;Chloropicon_roscoffensis; ; 
+HM474448.1.785_U;Chloropicon_roscoffensis; ; 
+HM474438.1.706_U;Chloropicon_roscoffensis; ; 
+HM474442.1.743_U;Chloropicon_roscoffensis; ; 
+KP270234.1.794_U;Chloropicon_roscoffensis; ; 
+KP270240.1.805_U;Chloropicon_roscoffensis; ; 
+KP270316.1.811_U;Chloropicon_roscoffensis; ; 
+KP404845.1.1683_U;Chloropicon_roscoffensis; ; 
+KP404865.1.1683_U;Chloropicon_roscoffensis; ; 
+KT012882.1.788_U;Chloropicon_roscoffensis; ; 
+KU200477.1.780_U;Chloropicon_roscoffensis; ; 
+KU200513.1.754_U;Chloropicon_roscoffensis; ; 
+KU200521.1.767_U;Chloropicon_roscoffensis; ; 
+KU200596.1.760_U;Chloropicon_roscoffensis; ; 
+KP269967.1.834_U;Chloropicon_roscoffensis; ; 
+KU743502.1.1777_U;Chloropicon_roscoffensis; ; 
+KP270225.1.800_U;Chloropicon_roscoffensis; ; 
+KP270233.1.793_U;Chloropicon_roscoffensis; ; 
+KU200542.1.780_U;Chloropicon_roscoffensis; ; 
+KU200565.1.799_U;Chloropicon_roscoffensis; ; 
+KU743544.1.1778_U;Chloropicon_roscoffensis; ; 
+KX523147.1.678_U;Chloropicon_roscoffensis; ; 
+KX523148.1.1005_U;Chloropicon_roscoffensis; ; 
+KX532389.1.1336_U;Chloropicon_roscoffensis; ; 
+LC191157.1.505_U;Chloropicon_roscoffensis; ; 
+KF031638.1.1738_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF031774.1.1738_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF031778.1.1738_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF031914.1.1737_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF031663.1.1738_U;Chloropicon_sieburthii; ;Pacific Ocean
+AY425302.1.1723_U;Chloropicon_sieburthii;RCC 287; 
+FJ537636.1.821_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF031687.1.1739_U;Chloropicon_sp.; ;Pacific Ocean
+FJ537346.1.1745_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF031657.1.1738_U;Chloropicon_sieburthii; ;Pacific Ocean
+KF130111.1.1739_U;Chloropicon_sieburthii; ;Pacific Ocean
+KT860695.1.686_U;Chloropicon_sieburthii;RCC1043; 
+KT860708.1.637_U;Chloropicon_sp.;RCC1019; 
+KP404814.1.1680_U;Chloropicon_sieburthii; ;Pacific Ocean
+KT860659.1.1736_U;Chloropicon_sieburthii;RCC297; 
+KU843576.1.1607_U;Chloropicon_sieburthii;NIES-3671; 
+KU843585.1.1634_U;Chloropicon_sieburthii;RCC857; 
+KU843588.1.1589_U;Chloropicon_sieburthii;RCC1019; 
+KU843590.1.1618_U;Chloropicon_sieburthii;RCC1032; 
+KU843591.1.1565_U;Chloropicon_sieburthii;RCC1043; 
+KX014631.1.583_U;Chloropicon_sieburthii;RCC4553;Atlantic Ocean
+KX014641.1.1621_U;Chloropicon_sieburthii;RCC4569;Atlantic Ocean
+EU106742.1.762_U;Chloropicon_sieburthii;"RCC857; Roscoff Culture Collection, France"; 
+OP522378.1.1729_U;Chloropicon_sieburthii;MCS-5; 
+FJ537344.1.1756_U;Chloropicon_sieburthii; ;Pacific Ocean
+JX291917.1.730_U;Chloropicon_sieburthii; ; 
+KR064250.1.722_U;Chloropicon_sieburthii; ; 
+KR064254.1.720_U;Chloropicon_sieburthii; ; 
+KR064258.1.695_U;Chloropicon_sieburthii; ; 
+KR064262.1.731_U;Chloropicon_sieburthii; ; 
+KU200584.1.756_U;Chloropicon_sieburthii; ; 
+KR064248.1.735_U;Chloropicon_sieburthii; ; 
+KR064252.1.674_U;Chloropicon_sieburthii; ; 
+KR064256.1.720_U;Chloropicon_sieburthii; ; 
+KR064260.1.692_U;Chloropicon_sieburthii; ; 
+KR064251.1.687_U;Chloropicon_sieburthii; ; 
+KR064255.1.699_U;Chloropicon_sieburthii; ; 
+KR064259.1.702_U;Chloropicon_sieburthii; ; 
+KR064263.1.718_U;Chloropicon_sieburthii; ; 
+KP404812.1.1689_U;Chloropicon_sieburthii; ; 
+KR064249.1.549_U;Chloropicon_sieburthii; ; 
+KR064253.1.712_U;Chloropicon_sieburthii; ; 
+KR064261.1.718_U;Chloropicon_sieburthii; ; 
+KU743553.1.1777_U;Chloropicon_sieburthii; ; 
+LC189149.1.1692_U;Chloropicon_sieburthii;NIES-3885; 
+LC189152.1.1693_U;Chloropicon_sp.;NIES-3888; 
+EU143500.1.890_U;Chloropicon_sp.; ;Atlantic Ocean
+EU106769.1.853_U;Chloropicon_roscoffensis;"RCC917; Roscoff Culture Collection, France";Pacific Ocean
+GU824839.1.1065_U;Chloropicon_roscoffensis; ;Atlantic Ocean
+GU825091.1.1068_U;Chloropicon_sp.; ;Atlantic Ocean
+AB275079.1.1752_U;Chloropicon_sp.; ; 
+AB183636.1.1727_U;Chloropicon_sp.;MBIC10749; 
+FJ537502.1.860_U;Chloropicon_sieburthii; ;Pacific Ocean
+GU825720.1.1066_U;Chloropicon_sp.; ;Atlantic Ocean
+EU106835.1.841_U;Chloropicon_sieburthii;"RCC1032; Roscoff Culture Collection, France";Pacific Ocean
+GU823979.1.1068_U;Chloropicon_sp.; ;Atlantic Ocean
+KF031615.1.1738_U;Chloropicon_roscoffensis; ;Pacific Ocean
+EU106822.1.900_U;Chloropicon_sp.;"RCC996; Roscoff Culture Collection, France";Pacific Ocean
+KC911761.1.818_U;Chloropicon_roscoffensis; ; 
+GU823947.1.1068_U;Chloropicon_sp.; ;Atlantic Ocean
+KF031659.1.1739_U;Chloropicon_sp.; ;Pacific Ocean
+KF031737.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+JX188384.1.1739_U;Chloropicon_roscoffensis; ;Pacific Ocean
+KF899838.1.1103_U;Chloropicon_sp.;CCMP2111; 
+KF925345.1.1635_U;Chloropicon_primus; ; 
+KJ760465.1.1779_U;Chloropicon_sp.; ;Pacific Ocean
+FJ537475.1.564_U;Chloropicon_roscoffensis; ;Pacific Ocean
+FJ537639.1.610_U;Chloropicon_sieburthii; ;Pacific Ocean
+FJ537646.1.616_U;Chloropicon_sieburthii; ;Pacific Ocean
+HM227980.1.518_U;Chloropicon_roscoffensis; ; 
+HM474423.1.796_U;Chloropicon_sp.; ;Pacific Ocean
+JQ242399.1.576_U;Chloropicon_roscoffensis; ; 
+JQ242687.1.576_U;Chloropicon_roscoffensis; ; 
+JQ244207.1.576_U;Chloropicon_roscoffensis; ; 
+KP269907.1.829_U;Chloropicon_sieburthii; ;Atlantic Ocean
+KP269919.1.811_U;Chloropicon_sp.; ;Atlantic Ocean
+KP269947.1.529_U;Chloropicon_sp.; ;Atlantic Ocean
+KP269962.1.834_U;Chloropicon_sp.; ;Atlantic Ocean
+KP269984.1.729_U;Chloropicon_sp.; ;Atlantic Ocean
+KP270243.1.794_U;Chloropicon_sp.; ;Atlantic Ocean
+KU843586.1.1624_U;Chloropicon_sp.;RCC996; 
+KU843596.1.1706_U;Chloropicon_sp.;RCC3376; 
+MF077475.1.1150_U;Chloropicon_sp.;CCMP2111; 
+KT860689.1.669_U;Chloropicon_laureae;RCC702;Indian Ocean
+KT860934.1.544_U;Chloropicon_mariensis;RCC964;Pacific Ocean
+AB275078.1.1682_U;Chloropicon_A6_sp.; ; 
+FJ537307.1.1743_U;Chloropicon_A6_sp.; ;Pacific Ocean
+EU143499.1.884_U;Chloropicon_A6_sp.; ;Atlantic Ocean
+FJ537457.1.653_U;Chloropicon_A6_sp.; ;Pacific Ocean
+FJ537468.1.782_U;Chloropicon_A6_sp.; ;Pacific Ocean
+FJ537469.1.701_U;Chloropicon_A6_sp.; ;Pacific Ocean
+FJ537473.1.796_U;Chloropicon_A6_sp.; ;Pacific Ocean
+KP269726.1.814_U;Chloropicon_A6_sp.; ;Atlantic Ocean
+KU843599.1.1640_U;Chloropicon_A6_sp.;RCC4434; 
+HM990666.1.1801_U;Picocystis_salinarum; ; 
+HM990664.1.1806_U;Picocystis_salinarum; ; 
+HM990669.1.1611_U;Picocystis_salinarum;KR 2010/4; 
+HM990659.1.1809_U;Picocystis_salinarum; ; 
+DQ267705.1.1762_U;Picocystis_salinarum;KR2003/27; 
+HM990660.1.1801_U;Picocystis_salinarum; ; 
+HM990663.1.1802_U;Picocystis_salinarum; ; 
+HM990662.1.1799_U;Picocystis_salinarum; ; 
+FR865649.2.1771_U;Picocystis_salinarum;CCAP158/2; 
+HM990667.1.1661_U;Picocystis_salinarum;KR 2010/1; 
+HM990665.1.1801_U;Picocystis_salinarum; ; 
+DQ267704.1.1751_U;Picocystis_salinarum;KR2003/26; 
+HM990668.1.1597_U;Picocystis_salinarum;KR 2010/2; 
+AF153313.1.1752_U;Picocystis_salinarum; ; 
+AF153314.1.1752_U;Picocystis_salinarum; ; 
+AF125167.1.1752_U;Picocystis_salinarum;SSFB; 
+HM990661.1.1799_U;Picocystis_salinarum; ; 
+KF591595.1.1695_U;Picocystis_salinarum; ; 
+KF615769.1.1628_U;Picocystis_salinarum;CCMP1897; 
+EU935604.1.576_U;Picocystis_salinarum; ; 
+EU935606.1.619_U;Picocystis_salinarum; ; 
+EU935605.1.578_U;Picocystis_salinarum; ; 
+FJ221560.1.545_U;Picocystis_salinarum; ; 
+GQ911608.1.704_U;Picocystis_salinarum; ; 
+GQ911618.1.658_U;Picocystis_salinarum; ; 
+GQ911649.1.525_U;Picocystis_salinarum; ; 
+OL489757.1.634_U;Picocystis_salinarum; ; 

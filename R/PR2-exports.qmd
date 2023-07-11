@@ -28,7 +28,7 @@ pr2_export <- function(pr2,
                        compress = TRUE,
                        taxo_include = FALSE
                        ){
-  taxa_string = str_c(taxa, sep="_")
+  taxa_string = str_flatten(taxa, collapse = "_")
   
   file_head = here::here("exports", taxa_string, "pr2_export")
   
@@ -39,25 +39,30 @@ pr2_export <- function(pr2,
   taxo_level_bayes = str_c(taxo_level, "_bayes")
    
   pr2_export_annotated <- pr2 %>% 
-    filter(!is.na(species),
+    filter(is.na(removed_version),
+           !is.na(species),
            .data[[taxo_level]] %in% taxa,
            !(pr2_accession %in% pr2_accession_exclude)) %>% 
-    mutate(pr2_annotated = TRUE)
+    mutate(pr2_annotated = 1) %>% 
+    arrange(desc(sequence_length))
   
   pr2_export_unannotated <- pr2 %>%  
-    filter(is.na(species),
+    filter(is.na(removed_version),
+           is.na(species),
            .data[[taxo_level_bayes]] %in% taxa, 
            !(pr2_accession %in% pr2_accession_exclude)) %>% 
-    mutate(pr2_annotated = FALSE) %>% 
+    mutate(pr2_annotated = 0) %>% 
     select(!(domain:species)) %>% 
-    rename_with(~ str_replace(.x, "_bayes", ""), contains("_bayes"))
+    rename_with(~ str_replace(.x, "_bayes", ""), contains("_bayes")) %>% 
+    mutate(species = str_c(species, "-*")) %>% 
+    arrange(desc(sequence_length))
   
   pr2_export <- bind_rows(pr2_export_annotated, pr2_export_unannotated) %>% 
   # filter(!is.na(domain)) %>%   # Remove data that are not annotated yet
   mutate(species_old = species) %>% 
   arrange(domain, supergroup, division, subdivision, class, order, family, genus, species) %>% 
   relocate(species_old, .after = species) %>% 
-  relocate(pr2_annotated, .after = species) %>% 
+  relocate(pr2_annotated, .after = species_old) %>% 
   select(-starts_with("taxo_"))
   
   pr2_export_taxonomy <- pr2_export %>% count(supergroup, division, subdivision, 
@@ -67,37 +72,35 @@ pr2_export <- function(pr2,
     filter(!is.na(species)) %>% 
     select(seq_name=pr2_accession, supergroup:genus, species, sequence) 
   
-  # pr2_export_fasta_other <- pr2_export %>% 
-  #   filter(is.na(species)) %>% 
-  #   mutate(seq_name=str_c(pr2_accession, gb_definition , sep = "|")) %>% 
-  #   select(seq_name, sequence) 
-  
-  pr2_export_metadata <- pr2_export # %>%
-    # select(pr2_accession:organelle, kingdom:genus, species, chimera:remark, taxon_trophic_mode:metadata_remark)
-    # select(-contains("_8"), -contains("boot"))
-    # select(-sequence)
+  pr2_export_metadata <- pr2_export
     
   pr2_export_txt <- pr2_export %>% 
     mutate(tax = str_c(domain, supergroup, division, subdivision, 
                        class, order, family, genus, species, 
                        sep = "; ")) %>% 
-    select(pr2_accession, tax)
+    select(pr2_accession, domain:species, pr2_annotated, gb_strain)
   
     
   cat(taxa_string, "\n")
   print(str_c("Number of sequences exported - annotated: ", nrow(pr2_export_annotated)))
   print(str_c("Number of sequences exported - other: ", nrow(pr2_export_unannotated)))
   
+  # Export xlsx file
+  
   export(list("taxonomy"=pr2_export_taxonomy, "metadata"=pr2_export_metadata), 
          file = str_c(file_head, ".xlsx"),
          zoom=80, firstActiveRow = 2, firstActiveCol = 12, colWidths="auto",
          overwrite = TRUE
          )
+  # Export fasta file
+  
   if (compress) file_ext = ".fas.gz" else file_ext = ".fas"
   dvutils::fasta_write(pr2_export_fasta_annotated, str_c(file_head, file_ext), compress, taxo_include)
   # dvutils::fasta_write(pr2_export_fasta_other, str_c(file_head, "_other", file_ext), compress, FALSE)
   
-  readr::write_tsv(pr2_export_txt, str_c(file_head, ".txt"), quote = "all")
+  # Export txt file to annotate trees
+  
+  readr::write_tsv(pr2_export_txt, str_c(file_head, ".txt"),  na=" ")
 
   
   return(NULL)
@@ -252,6 +255,10 @@ df <- tibble::tribble(
   result <- purrr::map2(df$taxa, df$taxo_level, ~ pr2_export ( pr2_18S, taxa = .x, taxo_level = .y))
 
 ```
+
+
+
+
 ## Fungi
 
 ```{r}
