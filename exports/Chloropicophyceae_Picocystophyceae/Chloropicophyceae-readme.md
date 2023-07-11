@@ -1,15 +1,3 @@
-# To do
-
-* Merge the clustering information into the pr2_export at species level
-* Create a fasta file with the updated information
-* Run RaXML on full file
-* Use the attachment function to add
-* * Species
-  * Type strains
-  * Strains
-  * Origin of environmental sequences
-
-
 # Annotation Chloropicophyceae
 
 ## 2023-07-08 - EukRef workshop
