@@ -1,0 +1,3 @@
+From Eric
+
+For the Ceramiales, I did color the updated sections in yellow. There are two rows that have red in them (105 & 106); I would feel best if those two sequences were also filtered out of the dataset. Additionally, the sequence corresponding to row 555 (L26192.3.1768_U) could likely be annotated more accurately if it were added to the Gelidiales dataset whenever I am able to get to that. I will try and plan a path forward for other Florideophyceae orders in the near future and get to other classes down the road or with the help of others. 
