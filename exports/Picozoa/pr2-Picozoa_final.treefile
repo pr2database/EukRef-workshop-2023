@@ -1,0 +1,197 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=95;
+	taxlabels
+	AF508277_Goniomonas_outgroup
+	AJ007285_Proteomonas_outgroup
+	AM901350_Hemiselmis_outgroup
+	'AY343928.1.1812_U'
+	'AY426835.1.1803_U'
+	'AY885047.1.593_U'
+	'AY938048.1.543_U'
+	'DQ060524.1.1778_U'
+	'DQ060528.1.800_U'
+	'DQ060529.1.740_U'
+	'DQ222875.1.1801_U'
+	'DQ222876.1.1799_U'
+	'DQ222877.1.1801_U'
+	'DQ918810.1.570_U'
+	'EU368003.1.1109_U'
+	'EU368004.1.1126_U'
+	'EU368015.1.712_U'
+	'EU368020.1.1039_U'
+	'EU368037.1.1764_U'
+	'EU561759.1.879_U'
+	'EU562018.1.776_U'
+	'FJ431345.1.557_U'
+	'FN689854.1.826_U'
+	'GQ382752.1.548_U'
+	GU068005_Katablepharids_outgroup
+	HM126532_Rhodomonas_outgroup
+	'HM561168.1.984_U'
+	'HM561172.1.953_U'
+	'HM858508.1.669_U'
+	'HM858603.1.528_U'
+	'HM858787.1.636_U'
+	'HM859135.1.538_U'
+	'HM859871.1.611_U'
+	'HQ156881.1.763_U'
+	'HQ394014.1.865_U'
+	'HQ688711.1.521_U'
+	'HQ864893.1.880_U'
+	'HQ866220.1.881_U'
+	'HQ867331.1.869_U'
+	'HQ867337.1.876_U'
+	'HQ867354.1.880_U'
+	'HQ867420.1.880_U'
+	'HQ867491.1.910_U'
+	'HQ868690.1.947_U'
+	'HQ868882.1.878_U'
+	'HQ869075.1.930_U'
+	'HQ869261.1.1000_U'
+	'HQ869353.1.904_U'
+	'HQ869362.1.935_U'
+	'HQ869572.1.881_U'
+	'HQ869574.1.909_U'
+	'HQ869605.1.957_U'
+	'HQ869751.1.898_U'
+	'HQ869765.1.926_U'
+	'HQ870206.1.853_U'
+	'JF305008.1.770_U'
+	JF790986_Geminigera_outgroup
+	'JF791041.1.1777_U'
+	'JN692922.1.646_U'
+	'JN693367.1.542_U'
+	'JQ226352.1.1606_U'
+	'JQ226578.1.1601_U'
+	'JQ955876.1.966_U'
+	'JX188383.1.1765_U'
+	'JX840937.1.1271_U'
+	'JX988758.1.1807_U'
+	'JX988767.1.1135_U'
+	'KC336953.1.599_U'
+	'KC488336.1.1682_U'
+	'KC488338.1.1714_U'
+	'KC488339.1.1675_U'
+	'KC488340.1.1697_U'
+	'KC488342.1.1710_U'
+	'KC488345.1.1706_U'
+	'KF130491.1.1763_U'
+	'KJ173838.1.862_U'
+	'KJ173845.1.986_U'
+	'KJ173846.1.991_U'
+	'KJ173847.1.992_U'
+	'KJ173852.1.863_U'
+	'KJ759275.1.1806_U'
+	'KJ759641.1.1788_U'
+	'KJ762470.1.1800_U'
+	'KJ762479.1.1805_U'
+	KJ762967_Leucocryptos_Katablephafrids_outgroup
+	'KJ762972.1.1807_U'
+	'KJ763213.1.1806_U'
+	'KJ763562.1.1796_U'
+	'KJ763885.1.1800_U'
+	KJ925375_Katablepharids_outgroup
+	KJ925380_Katablepharids_outgroup
+	'KP270413.1.599_U'
+	'KX602099.1.1621_U'
+	L28811_Cryptomonas_outgroup
+	X57162_Guillardia_outgroup
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ('AY343928.1.1812_U':0.039579,((((((((((((((('JX988758.1.1807_U':0.003597,'KX602099.1.1621_U':0.054131)[&label=92]:0.006626,((('DQ222876.1.1799_U':0.004317,'JF791041.1.1777_U':0.001439)[&label=100]:0.008747,((('EU368004.1.1126_U':0.012114,'EU368015.1.712_U':0.005115)[&label=96]:0.021413,'EU368003.1.1109_U':0.009504)[&label=81]:0.014808,'EU368020.1.1039_U':0.017465)[&label=93]:0.01527)[&label=49]:2.0E-6,(((('KJ763213.1.1806_U':0.002575,(('HQ394014.1.865_U':0.005516,'JN693367.1.542_U':0.014464)[&label=64]:4.24E-4,'HM859135.1.538_U':0.005884)[&label=24]:3.0E-6)[&label=41]:0.001716,'FJ431345.1.557_U':0.004823)[&label=45]:1.0E-6,('AY885047.1.593_U':2.0E-6,'JF305008.1.770_U':0.016123)[&label=56]:0.007004)[&label=27]:2.0E-6,'DQ222877.1.1801_U':0.005023)[&label=98]:0.007948)[&label=65]:0.001431)[&label=66]:2.0E-6,'KC336953.1.599_U':0.053085)[&label=88]:0.002351,'KC488338.1.1714_U':0.006324)[&label=73]:0.002601,('KJ762479.1.1805_U':3.0E-6,('HQ869751.1.898_U':2.0E-6,(('HQ869362.1.935_U':3.0E-6,'HQ869261.1.1000_U':0.033072)[&label=59]:0.01244,('HQ869765.1.926_U':3.0E-6,'HQ869353.1.904_U':0.00402)[&label=75]:0.022471)[&label=73]:0.053343)[&label=62]:0.051347)[&label=61]:0.004877)[&label=66]:0.004477,'JQ226352.1.1606_U':0.013347)[&label=60]:1.82E-4,'KJ173847.1.992_U':0.028058)[&label=55]:0.00651,('JX188383.1.1765_U':0.002423,'KJ173845.1.986_U':0.012884)[&label=93]:0.004771)[&label=42]:0.002568,((('KJ173838.1.862_U':0.022348,((('KC488345.1.1706_U':3.0E-6,'HM561168.1.984_U':0.031178)[&label=65]:0.001928,('HQ869605.1.957_U':0.015313,'HQ869574.1.909_U':0.011621)[&label=100]:0.047516)[&label=74]:2.0E-6,'JQ226578.1.1601_U':0.014377)[&label=99]:0.006668)[&label=83]:0.009918,(('EU368037.1.1764_U':0.004306,('HM858787.1.636_U':0.023804,'JN692922.1.646_U':0.029631)[&label=60]:1.04E-4)[&label=66]:0.003874,'KJ173846.1.991_U':0.002896)[&label=61]:0.002148)[&label=70]:0.004526,(('KJ762972.1.1807_U':0.008818,('KJ763885.1.1800_U':0.006583,'AY938048.1.543_U':0.002925)[&label=61]:2.0E-6)[&label=72]:0.001701,('KJ759275.1.1806_U':0.011559,('HQ868690.1.947_U':0.072139,('KP270413.1.599_U':0.025935,'HM858603.1.528_U':0.056497)[&label=96]:3.0E-6)[&label=96]:3.0E-6)[&label=98]:0.005137)[&label=93]:0.008235)[&label=87]:0.007453)[&label=45]:0.002356,(((('AY426835.1.1803_U':0.015637,((('DQ222875.1.1801_U':1.0E-6,('HQ867491.1.910_U':0.017836,('DQ918810.1.570_U':0.027007,('HM858508.1.669_U':0.002423,'GQ382752.1.548_U':0.04061)[&label=100]:0.054913)[&label=63]:0.002528)[&label=90]:3.0E-6)[&label=97]:0.00701,'KF130491.1.1763_U':0.00912)[&label=96]:0.006547,'JX988767.1.1135_U':0.006745)[&label=89]:0.003536)[&label=96]:0.011142,('KJ173852.1.863_U':0.001526,('JX840937.1.1271_U':2.0E-6,('HQ869075.1.930_U':0.039861,'HQ156881.1.763_U':0.088707)[&label=100]:2.0E-6)[&label=100]:0.015088)[&label=100]:0.035826)[&label=89]:0.012098,'KJ763562.1.1796_U':0.026014)[&label=97]:0.036664,((((('KJ762470.1.1800_U':0.002925,(('HM561172.1.953_U':3.0E-6,'HM859871.1.611_U':0.014184)[&label=61]:0.007038,'HQ688711.1.521_U':0.075798)[&label=98]:0.008629)[&label=100]:0.006844,('KC488342.1.1710_U':0.008256,'DQ060529.1.740_U':0.056598)[&label=100]:0.03617)[&label=62]:0.002235,(('KC488340.1.1697_U':0.002519,'DQ060528.1.800_U':0.099817)[&label=59]:0.002031,'JQ955876.1.966_U':0.002956)[&label=96]:0.007222)[&label=89]:0.004158,'HQ868882.1.878_U':0.034342)[&label=58]:0.002802,'KC488336.1.1682_U':0.011444)[&label=100]:0.048643)[&label=95]:0.016154)[&label=64]:0.010104,((('HQ869572.1.881_U':0.092745,'HQ866220.1.881_U':0.095349)[&label=86]:0.019434,(('HQ864893.1.880_U':0.018597,'FN689854.1.826_U':3.0E-6)[&label=96]:0.031926,(((JF790986_Geminigera_outgroup:0.088049,((X57162_Guillardia_outgroup:0.046429,L28811_Cryptomonas_outgroup:0.112487)[&label=81]:0.009886,(AJ007285_Proteomonas_outgroup:0.03151,(AM901350_Hemiselmis_outgroup:0.031019,HM126532_Rhodomonas_outgroup:0.041358)[&label=71]:0.007166)[&label=60]:0.004245)[&label=100]:0.023581)[&label=90]:0.027408,AF508277_Goniomonas_outgroup:0.125563)[&label=70]:0.022893,((KJ762967_Leucocryptos_Katablephafrids_outgroup:0.100965,(KJ925380_Katablepharids_outgroup:0.130071,KJ925375_Katablepharids_outgroup:0.131751)[&label=77]:0.0168)[&label=95]:0.024569,GU068005_Katablepharids_outgroup:0.065558)[&label=100]:0.059401)[&label=100]:0.054725)[&label=95]:0.032072)[&label=98]:0.015423,('KJ759641.1.1788_U':0.006481,('EU562018.1.776_U':0.008216,'EU561759.1.879_U':0.030219)[&label=71]:0.002788)[&label=100]:0.110221)[&label=99]:0.031233)[&label=67]:0.023039,'KC488339.1.1675_U':0.020313)[&label=56]:0.010141,('HQ870206.1.853_U':0.031301,('HQ867337.1.876_U':0.02461,'HQ867420.1.880_U':0.006701)[&label=100]:0.044382)[&label=36]:0.007268)[&label=77]:0.008512,'HQ867331.1.869_U':0.036129)[&label=70]:0.004659,'DQ060524.1.1778_U':0.060642)[&label=64]:0.009048,'HQ867354.1.880_U':0.035171);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="User selection";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=1.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName=".AppleSystemUIFont";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute=null;
+	set legend.fontSize=10.0;
+	set legend.isShown=false;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName=".AppleSystemUIFont";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute=null;
+	set nodeShapeExternal.isShown=false;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=4.0;
+	set nodeShapeExternal.sizeAttribute=null;
+	set nodeShapeInternal.colourAttribute=null;
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute=null;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName=".AppleSystemUIFont";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
