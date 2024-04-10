@@ -73,6 +73,10 @@ In addition columns:
   if it is not been annotated
 - `species_old` should not be changed if you edit the species column
 
+## Instructions to edit xlsx files
+
+- [Instructions](https://pr2-database.org/documentation/pr2-annotation-simple/)
+
 ## PR2 curation pipeline for EukRef workshop
 
 [PR2_Curation.Rmd](R/PR2_Curation.Rmd)
