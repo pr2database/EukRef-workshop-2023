@@ -54,6 +54,11 @@ Including curated EukRef files
 - Number of sequences exported - pr2 expert annotation: 546
 - Number of sequences exported - dada2 automated annotation: 1496
 
+### Aphelidiomycota_et_al
+
+- Number of sequences exported - pr2 expert annotation: 1414
+- Number of sequences exported - dada2 automated annotation: 1152
+
 # EurRef workshop 2023
 
 
