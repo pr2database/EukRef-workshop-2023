@@ -1,6 +1,52 @@
 # PR2 export statistics
 
 
+# Version 5.1 - 2024
+
+Including curated EukRef files
+
+## Archaeplastida
+
+### Ceramiales
+
+- Number of sequences exported - annotated: 470
+- Number of sequences exported - other: 112
+
+### Batrachospermales
+
+- Number of sequences exported - annotated: 72
+- Number of sequences exported - other: 38
+
+### Gigartinales
+
+- Number of sequences exported - pr2 expert annotation: 237
+- Number of sequences exported - dada2 automated annotatation: 50
+
+### Ulvophyceae
+
+- Number of sequences exported - pr2 expert annotation: 1907
+- Number of sequences exported - dada2 automated annotatation: 1480
+
+### Chloropicophyceae
+
+- Number of sequences exported - annotated: 298
+- Number of sequences exported - other: 107
+
+### Picocystophyceae
+
+- Number of sequences exported - annotated: 19
+- Number of sequences exported - other: 8
+
+### Picozoa
+
+- Number of sequences exported - annotated: 293
+- Number of sequences exported - other: 176
+
+### Sphaeropleales
+
+- Number of sequences exported - pr2 expert annotation: 1783
+- Number of sequences exported - dada2 automated annotatation: 2027
+
 # EurRef workshop 2023
 
 
@@ -126,44 +172,3 @@
     Labyrinthulomycetes 
     - Number of sequences exported - annotated: 1399
     - Number of sequences exported - other: 784
-
-# Version 5.1 - 2024
-
-Including curated EukRef files
-
-## Archaeplastida
-
-### Ceramiales
-
-- Number of sequences exported - annotated: 470
-- Number of sequences exported - other: 112
-
-### Batrachospermales
-
-- Number of sequences exported - annotated: 72
-- Number of sequences exported - other: 38
-
-### Gigartinales
-
-- Number of sequences exported - pr2 expert annotation: 237
-- Number of sequences exported - dada2 automated annotatation: 50
-
-### Ulvophyceae
-
-- Number of sequences exported - pr2 expert annotation: 1907
-- Number of sequences exported - dada2 automated annotatation: 1480
-
-### Chloropicophyceae
-
-- Number of sequences exported - annotated: 298
-- Number of sequences exported - other: 107
-
-### Picocystophyceae
-
-- Number of sequences exported - annotated: 19
-- Number of sequences exported - other: 8
-
-### Picozoa
-
-- Number of sequences exported - annotated: 293
-- Number of sequences exported - other: 176
