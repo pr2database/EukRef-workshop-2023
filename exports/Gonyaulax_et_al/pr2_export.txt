@@ -1,0 +1,1293 @@
+pr2_accession	domain	supergroup	division	subdivision	class	order	family	genus	species	pr2_annotated	gb_strain
+OM177649.1.1719_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_amoyensis	1	TIO711
+OM177648.1.1719_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_amoyensis	1	TIO708
+OM228742.1.530_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_amoyensis	1	TIO709
+OM228734.1.528_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_amoyensis	1	TIO711
+OM228733.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_amoyensis	1	TIO708
+LC222300.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	1	
+LC222309.1.1730_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	1	
+OM177653.1.1634_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	1	LMBE-HJ62
+OM177652.1.1619_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	1	LMBE-HJ86
+OM177651.1.1559_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	1	LIMS-PS-3408
+OM228740.1.540_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	1	LMBE-HJ62
+OM177647.1.1715_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	TIO729
+OM177646.1.1715_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	TIO726
+OM177650.1.1495_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	LIMS-PS-3448
+OM228744.1.528_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	TIO729
+OM228737.1.528_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	TIO732
+OM228736.1.528_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	TIO727
+OM228735.1.528_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_bohaiensis	1	TIO726
+AF274258.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_cochlea	1	CCMP 1592
+DQ388465.1.1686_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_cochlea	1	ccmp1592
+MW795366.1.1936_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_digitale	1	
+LC036590.1.1712_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_ellegaardiae	1	
+KU358947.1.3612_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358942.1.3609_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358949.1.3600_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358950.1.3592_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358943.1.3494_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358946.1.2856_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358944.1.2827_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358945.1.2827_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+KU358948.1.2815_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_elongata	1	
+MF494206.1.1211_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_fragilis	1	NewZealand
+MF494205.1.1210_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_fragilis	1	Tyrrhenian
+MF494207.1.1195_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_fragilis	1	Adriatic
+OM692364.1.1588_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_geomunensis	1	LIMS-PS-3344
+AY672702.1.1668_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_hyalina	1	
+MW793450.1.1746_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	1	pantan_20-217
+MW775713.1.1674_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	1	HSN114
+AJ833631.1.1793_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+AY775287.1.1787_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	GS0209
+KF130277.1.1756_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+OM692366.1.1631_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	LIMS-PS_3466
+OM692367.1.1616_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	LIMS-PS-3467
+OM692369.1.1565_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	LIMS-PS-3347
+OM692368.1.1554_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	LIMS-PS-3346
+GU819683.1.1232_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820006.1.1203_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU819691.1.1201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820460.1.1201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU819666.1.1201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU819640.1.1201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820550.1.1201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820436.1.1201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820666.1.1200_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820517.1.1200_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820186.1.1200_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820244.1.1196_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820212.1.1071_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820295.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820401.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU819844.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820009.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820277.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820438.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU819643.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820746.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820747.1.1070_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820452.1.1069_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820546.1.1069_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820181.1.1068_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+GU820219.1.1068_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	1	
+OM177645.1.1705_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_portimonensis	1	IFR20-019
+OM177644.1.1705_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_portimonensis	1	IFR20-018
+OM228739.1.532_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_portimonensis	1	IFR20-019
+OM228738.1.532_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_portimonensis	1	IFR20-018
+OR145345.1.1691_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	1	LMBE-V570
+OR145346.1.1690_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	1	LMBE-V571
+OR392571.1.1682_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	1	TIO1278
+EU087231.1.890_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	1	
+EU087278.1.889_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	1	
+AF052190.1.1795_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	GSTL1
+AF022155.1.1790_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	CCMP409
+FR865625.2.1771_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	CCAP1118/2
+EU805590.1.1725_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	GSA0602
+DQ867107.1.1718_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	Adriatic
+KF925336.1.1642_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	
+JQ638936.1.877_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	
+JQ638933.1.833_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_spinifera	1	
+LS481152.1.3526_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_whaseongensis	1	
+MW775714.1.1716_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_whaseongensis	1	TIO712
+OM692365.1.1489_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_whaseongensis	1	LIMS-PS-3443
+MW775715.1.974_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_whaseongensis	1	TIO260
+AJ535375.1.1807_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	CCMP112
+AY831409.498.2299_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	CCMP 112
+AB088282.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AFF37
+JF906996.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AC-1
+JF906997.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AS-1
+JF521616.1.1795_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AABB01/01
+JF521618.1.1795_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	CCMP112
+JF521617.1.1795_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AABB01/02
+AY421778.1.1789_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	
+AY775286.1.1789_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	JH0210
+MW362480.1.1718_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AABG01
+MW362485.1.1709_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AABG02
+DQ166532.1.1059_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	
+DQ171879.1.1059_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	sp16
+OM850685.1.700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	ZW8
+OM850688.1.641_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	ZW3
+MW443022.1.628_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AABG01
+MW443023.1.626_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	AABG02
+KX599339.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	CCMP 112
+KX599340.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	1	CCMP 112
+JF521619.1.1736_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	1	CCMP1597
+JF521620.1.1736_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	1	CCMP1718
+JF521621.1.1735_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	1	CCMP2222
+KF925334.1.1640_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	1	
+OQ383675.1.559_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	1	BS5-E11
+AF022191.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_australiense	1	
+JF521639.1.1782_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_australiense	1	ATBB01
+KF908802.1.1672_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_australiense	1	ATBB01
+JQ991015.1.1464_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_australiense	1	ATNWB01
+AB088305.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+AB088331.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+U09048.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+AB088311.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJW97043
+AB088297.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HI28
+AB088296.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HI28
+AB088307.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+AB088329.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+AB088292.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HAT4
+DQ785888.530.2329_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HY97403M
+AB088310.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9522
+AB088291.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HAT4
+AB088309.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+DQ785890.526.2325_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AX-03
+AB088304.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+AY831406.954.2753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HY970328M
+AB088326.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	UL7
+AB088301.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	KCJ97111
+AB088303.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+AB088293.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HAT4
+AB088299.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	KCJ97111
+AB088295.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HAT4
+AB088313.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJW97046
+AB088327.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+AB088333.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+AY831407.363.2162_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCAP 1119/5
+AB088328.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+AB088306.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+DQ785889.334.2132_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HY981028M
+AB088294.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HAT4
+AB088330.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+AB088308.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJC9516
+AB088332.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ULW9903
+AB088312.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJW97043
+AB088314.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SJW97046
+AB088300.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	KCJ97111
+JF521626.1.1795_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1978
+JF521644.1.1793_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1978
+JF521642.1.1767_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1719
+JF521624.1.1763_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1719
+JF521625.1.1763_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1846
+JF521643.1.1763_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1846
+KF646524.1.1754_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1719
+KF646521.1.1754_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1719
+JF521647.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	IMR_S_182008
+JF521629.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	IMR_S_182008
+KF646523.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1719
+KF646522.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1719
+JF521645.1.1751_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1979
+JF521627.1.1751_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1979
+JF521628.1.1736_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1980
+JF521646.1.1736_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1980
+KJ925423.1.1709_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098301.1.1706_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098328.1.1705_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098316.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098277.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098336.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098283.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098280.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098320.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098318.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098279.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098293.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098268.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098315.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098303.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098237.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098281.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098295.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098329.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098325.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098306.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098288.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098313.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098269.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098267.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098274.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098310.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN626272.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098319.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098323.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098230.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098252.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098304.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098216.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098256.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098257.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098238.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098308.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN626270.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN626274.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098273.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098229.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098330.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098271.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098241.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098290.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098278.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098221.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098228.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098264.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098317.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098297.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098289.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098239.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098240.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098247.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098335.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098231.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098276.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098324.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098233.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098300.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098333.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098282.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098296.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098243.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098253.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098298.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098331.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098218.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098258.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN626273.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL52
+JN098311.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098262.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098260.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098334.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098275.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098285.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098265.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098227.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098223.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098254.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098284.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN626271.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098322.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098305.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098226.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098321.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098294.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098217.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098261.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098302.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098266.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098291.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098235.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098326.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098314.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098215.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1978
+JN098259.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098287.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098220.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+HQ710795.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTCA28
+HQ710796.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTCA28
+JN098272.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098250.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098224.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098246.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098236.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098251.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098244.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098299.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098270.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACC01
+JN098248.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098245.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098225.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098242.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098249.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098222.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098232.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098219.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	LKC11
+JN098234.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTM253
+JN098263.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+JN098327.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098255.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	HT140G4
+HQ710797.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	GTCA28
+JN098292.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098312.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+JN098309.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL52
+JN098286.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JN098332.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	CCMP1911
+JN098307.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	AL10
+KJ925420.1.1695_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KJ925400.1.1689_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KF908795.1.1673_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	SPE10-3
+KF908796.1.1673_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	ACQH01
+JQ692035.1.1631_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KX602058.1.1631_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098206.1.1539_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098212.1.1539_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098197.1.1538_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098210.1.1538_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098202.1.1538_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098205.1.1538_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098192.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098196.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098186.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098190.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098178.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098175.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098183.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098180.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098189.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098179.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098188.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098182.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098181.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098177.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098184.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098185.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098187.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098194.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098176.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+JN098191.1.1535_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KJ925451.1.1498_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KJ925498.1.1493_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KJ925414.1.1485_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+KJ925448.1.1477_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	1	
+AF113935.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_cohorticula	1	
+KF251139.1.1711_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_diversaporum	1	
+KX097019.1.1634_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fragae	1	
+AB088290.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fraterculus	1	DPW9709
+AB088315.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fraterculus	1	SJW9709
+AY421776.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fraterculus	1	
+JF521623.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fraterculus	1	AF0307MIE07
+JF521622.1.1746_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fraterculus	1	AF0307MIE01
+AY641564.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	1	
+LC056068.1.1764_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	1	NY008
+LC056070.1.1761_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	1	HG3
+AB088298.1.1804_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_insuetum	1	AI104
+MZ489187.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_insuetum	1	AILYG12
+JF521630.1.1760_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_insuetum	1	CCMP2082
+EU418967.1.1590_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_insuetum	1	
+AY641565.1.1794_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_leei	1	
+KP404892.1.1794_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_leei	1	
+U27498.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_margalefii	1	
+JQ616827.1.881_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_margalefii	1	
+AJ535386.1.1772_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_mediterraneum	1	SZN19
+AJ535387.1.1757_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_mediterraneum	1	SZN01
+JN626282.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_mediterraneum	1	SZNB8
+JN626281.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_mediterraneum	1	SZNB21
+KF908797.1.1672_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_mediterraneum	1	SZN01
+KF908798.1.1672_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_mediterraneum	1	SZN08
+JF521634.1.1803_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	CCMP113
+AY831408.479.2281_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	CCMP 113
+JF906999.1.1803_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	AL-1
+JF906998.1.1803_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	AM
+U27499.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	
+JF521631.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	ALSP01
+JF521632.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	ALSP02
+JF521633.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	AMAD16
+AY883006.1.1791_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	
+AJ535380.1.1765_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	SZN30
+AJ535388.1.1763_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	AL3T
+JF521635.1.1739_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	CCMP1888
+OP456959.1.1736_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	AM-LYG
+OP456960.1.1726_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	TIO914
+OP456961.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	BK280604
+DQ168664.1.1059_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	sp5
+MT627441.1.597_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	1	Samil 1
+AY883005.1.1744_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_monilatum	1	
+AB538439.1.1803_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	
+U27500.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	
+AJ535382.1.1778_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	K0287
+AJ535381.1.1771_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	K0324
+JF521637.1.1759_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	IMR_V_062007
+AJ535384.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOSH1
+LC056069.1.1744_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	HG222
+JF521636.1.1739_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	CCMP1773
+AJ535383.1.1719_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	BAHME136
+KJ361972.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1F9
+KJ361973.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1F8
+KJ361974.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1F5
+KJ361975.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P3E4
+KJ361976.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P3F1
+KJ361977.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P2G3
+KJ361978.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P2G9
+KJ361979.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P2F2
+KJ361980.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P2E4
+KJ361981.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1H10
+KJ361982.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P2E3
+KJ361983.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1G3
+KJ361984.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1G6
+KJ361985.1.1685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	P1D5
+KJ361986.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	IEO-VGOAM10C
+KJ361987.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOF0917
+KJ361988.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOFUN0801
+KJ361989.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOFUN0901
+KJ361990.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOIS4
+KJ361991.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOKAL0909
+KJ361992.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AONOR4
+KJ361993.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOPC1
+KJ361994.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOPL0917
+KJ361995.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AOVA0917
+KJ361996.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	AP0704_3
+KJ361997.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	ASBH01
+KJ361999.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	CAWD135
+KJ362000.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	CAWD136
+KJ362003.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	IEO-VGOAMD12
+KJ362004.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	F301
+KJ362005.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	HT120B7
+KJ362006.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	K1354
+KJ362007.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	K0287
+KJ362008.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	LKE6
+KJ362009.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	LSA06
+KJ362010.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	LSE05
+KJ362011.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	NCH85
+KJ362012.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	WW516
+KJ362013.1.1669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	WW517
+KJ361998.1.1661_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	BYK04
+HM749928.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	
+AACY023789702.416.1655_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_ostenfeldii	1	
+DQ785885.589.2389_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	Axsp-K01
+AY347308.401.2201_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	AxCt_K01
+JF906991.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATCI03
+DQ785886.555.2355_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	Axsp-K03
+AB088335.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	YSC9811
+AB088289.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	DPC8
+AB088280.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACY12
+JF906992.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	AT5-1
+AB088281.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACY12
+JF906994.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATHK
+AB088286.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	DPC7
+AB088287.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	DPC7
+AB088284.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	CMC2
+JF906993.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	AT5-3
+AB088334.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	YSC9811
+DQ785887.506.2306_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	Axsp-K05
+AB088283.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	CMC2
+AB088285.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	CMC3
+AB088288.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	DPC8
+JF906990.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATCI02
+JF906989.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACDH
+EU024794.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATNH01
+AY421773.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	
+AY421774.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	
+AY421772.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	
+AY421775.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	
+JF521641.1.1784_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	CCMP1493
+AJ535392.1.1781_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	BAHME217
+KF646528.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACPP01
+KF646529.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATDH02
+KF646532.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATCI01
+KF646536.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATP
+KF646530.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACDH01
+KF646534.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACHK_NT
+KF646533.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACHK
+KF646531.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ASGX01
+KF646535.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATMJ01
+AB183676.1.1754_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	MBIC11166
+JN626280.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	GCRUX
+JN626275.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACPP01
+JN626279.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	OF878-C5
+JN626278.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACJP03
+JN626277.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	TN9
+MT459323.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	TFB_G/18
+MT459322.1.1700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	TFB_C/18
+KF908800.1.1674_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACPP01
+KF908801.1.1674_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ATTL01
+KM091276.1.1659_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACHK-T
+KM091275.1.1658_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	ACHK-NT
+MW548840.1.1329_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	LMBE-C4
+AY027906.1.863_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	CCMP1598
+KF733551.1.704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	1	
+LN811348.1.1630_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pohangense	1	APPH1409
+AB088302.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APSN
+MW362484.1.1726_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APBG05
+MW362483.1.1725_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APBG04
+MW362482.1.1723_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APBG03
+JF521638.1.1720_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	OF2AUG09
+MW362479.1.1718_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APBG01
+MW362481.1.1675_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APBG02
+MW443021.1.595_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pseudogonyaulax	1	APBG01
+AY641566.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_satoanum	1	
+KM067435.1.1098_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_satoanum	1	
+KP685263.1.1098_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_satoanum	1	
+LC517325.1.3228_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	
+LC517322.1.3224_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	
+LC517315.1.3224_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	
+LC770198.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	Atay99Shio-02
+OP782555.1.1760_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	LASpbB10
+OP782553.1.1745_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	DBS08
+OP782556.1.1744_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	LASpbD3
+OP782554.1.1744_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	DBS28
+LC517309.1.1738_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	
+LC517310.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	
+HM103488.1.1045_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	
+OM855534.1.612_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	1	CLMS2
+JN098201.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp_01	1	
+JN098211.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp_02	1	
+DQ444290.523.2323_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCMP1719
+JF906995.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	AT-6
+DQ785891.493.2293_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCAP1119/9
+X54946.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	
+JF521640.1.1791_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCMP115
+AY883004.1.1784_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	
+OR397930.1.1784_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCAP 1119/11
+AJ535391.1.1769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	31/4
+AJ415510.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	
+KF646525.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCAP1119-1
+KF646526.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCAP1119-20
+KF646527.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	CCAP1119-29
+KX229684.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	UNC1418
+JN626285.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	SP3B8-3
+JN626283.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	ATIR3
+JN626284.1.1703_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	ATSW01
+KF908799.1.1674_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	ATSW01
+GAIV01088465.1854.3366_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	38-3,GTM-253-17
+HM103477.1.981_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	
+JF901327.1.506_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	1	ATDH01
+AB088318.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI22012
+AB088322.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2207
+AB088324.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2207
+AB088321.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2207
+AB088319.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2201
+AB088325.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2207
+AB088316.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI22012
+AB088317.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI22012
+AB088323.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2207
+AB088320.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	TAMI2207
+MW362478.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	ATBG01
+MW443020.1.617_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamiyavanichii	1	ATBG01
+AJ535377.1.1782_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	AT5
+AJ535378.1.1781_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	SZN29
+AJ535376.1.1779_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	A8/1
+AJ535379.1.1771_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	SZN28
+OQ383678.1.571_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	BS5-C12
+OQ383676.1.550_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	BS3-D6
+OQ383677.1.538_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	1	BS4-A1
+AJ535385.1.1776_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_taylorii	1	AY2T
+AJ535390.1.1771_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_taylorii	1	AY1T
+AJ535389.1.1755_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_taylorii	1	AY4T
+MT644478.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_taylorii	1	AY7T
+MW720768.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_boggayum	1	CAWD164
+MT489382.1.2685_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CS-21
+AF009217.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	ACWGTNZ CAWD10
+EU046334.1.1794_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	
+EF492485.1.1790_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	
+FR865624.2.1772_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCAP1102/7
+AF274251.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCMP 1314
+AY443011.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCMP 1342
+AY443012.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	UTEX LB 1946
+AF274255.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCCM 439
+AJ415512.1.1741_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	
+JN717139.1.1730_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SHOU-Dino-Amp-001
+FR865623.14.1732_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCAP1102/5
+EF057407.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCMP121
+EF057406.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	CCMP123
+OL966904.1.1701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	JSGP2
+FR865622.1.1696_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	
+KF733534.1.717_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	
+MK590173.1.558_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_S082
+MK590178.1.554_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_Ve021
+MK590179.1.551_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_Ve022
+MK590181.1.550_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_W014
+MK590175.1.550_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_S084
+MK590180.1.549_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_Ve083
+MK590174.1.548_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_S083
+ON220609.1.545_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	 
+MZ359143.1.544_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	TIO574
+MK590176.1.541_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_S085
+MK590177.1.540_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_Ve003
+MK590172.1.537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	SKLMP_S081
+MZ359130.1.534_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	TIO83
+MZ359131.1.532_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	TIO137
+MZ359132.1.526_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	WZD15
+OM037600.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	ZS130
+MZ359140.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	TIO16
+DQ887504.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	1	D-19
+ON015052.1.973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_corpulentum	1	 
+LC056067.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_cupulatisquama	1	HG149
+MZ359138.1.551_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_fijiensis	1	WZD20
+MZ359137.1.551_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_fijiensis	1	WZD19
+L13719.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_gibbosum	1	324
+AB863027.1.1765_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_gibbosum	1	NY004
+AF274253.1.1756_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_herdmanii	1	CCCM 532
+ON015053.1.1168_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_herdmanii	1	 
+ON015054.1.1126_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_incoloratum	1	 
+KF733541.1.708_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_klebsii	1	
+AF274254.1.1749_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_longum	1	
+HF674441.1.1727_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_massartii	1	AMJJ1
+HF674442.1.1724_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_massartii	1	AMJJ2
+HF674443.1.1723_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_massartii	1	AMJJ3
+MZ359134.1.553_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_massartii	1	WZD23
+MZ359133.1.552_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_massartii	1	TIO145
+MZ851798.1.513_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_massartii	1	G12
+GU295202.1.1779_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_mootonorum	1	
+AB704006.1.1719_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_operculatum	1	TAK-0
+OL966934.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_operculatum	1	JSGP1
+OL966936.1.1663_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_operculatum	1	JSGP2
+MZ851802.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_pagoense	1	G5
+MZ359145.1.564_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_pseudomassartii	1	TIO581
+MZ359144.1.564_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_pseudomassartii	1	TIO555
+AB107845.1.1777_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	Y42
+EU046336.1.1765_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+EU046338.1.1759_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+AB103389.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	HG114
+AB103390.1.1751_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	HG115
+EU046337.1.1747_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+EU046340.1.1741_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+EU046335.1.1727_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+AB626895.1.1707_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+AB092335.1.1607_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	PEL-2
+LC054922.1.1557_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	HG213
+EU035776.1.769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+EU035777.1.731_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+KF733526.1.722_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	
+KT860955.1.675_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	RCC2984
+KT860956.1.639_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	1	RCC2983
+LC054921.1.1767_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_steinii	1	HG220
+LC054920.1.1761_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_steinii	1	HG214
+MZ359142.1.602_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_steinii	1	TIO181
+MZ663993.1.1649_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_stirisquamtum	1	TIO971
+MZ663992.1.1649_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_stirisquamtum	1	TIO955
+MK590192.1.607_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	SKLMP_W057
+MK590191.1.607_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	SKLMP_W036
+MK590190.1.607_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	SKLMP_W035
+MK590189.1.606_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	SKLMP_W006
+MK590193.1.599_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	SKLMP_W065
+MZ359135.1.597_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	TIO13
+MZ359136.1.596_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_thermaeum	1	WZD07
+MK590194.1.622_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_tomasii	1	SKLMP_Ve072
+MZ359141.1.595_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_tomasii	1	TIO31
+MZ851800.1.669_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_uduigamense	1	I76
+LC756461.1.3367_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_anteroporum	1	AmAz661
+JQ247701.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_caudatum	1	
+JQ247707.1.1790_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_caudatum	1	
+MT644696.1.1515_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_caudatum	1	9-E13
+KJ481826.1.1794_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_concinnum	1	1C6
+KJ481829.1.1794_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_concinnum	1	1C6
+KJ481822.1.1794_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_cuneatum	1	3D6
+KJ481819.1.1771_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_cuneatum	1	3D6
+LS974151.1.3111_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	1	N-15-01
+LS974152.1.3068_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	1	N-38-02
+LS974153.1.3065_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	1	N-38-03
+KF543360.1.1777_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	1	AZCH02
+KR362889.1.1795_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dexteroporum	1	1D12
+KR362890.1.1727_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dexteroporum	1	
+LS974154.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_obesum	1	N-41-01
+GQ914935.1.1499_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_obesum	1	2.00E+10
+MK883041.1.1734_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_perforatum	1	AZA-2C
+LS974157.1.3052_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	1	N-39-03
+HQ324898.1.1777_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	1	
+FR877580.1.1750_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	1	
+HQ324899.1.1740_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	1	
+HQ324897.1.1718_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	1	
+KJ759690.1.1806_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	
+KJ759591.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	
+KJ763940.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	
+MT644698.1.1773_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R6
+EU780634.1.1716_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	
+MT644699.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R7
+MT644697.1.1676_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R4
+MT644701.1.1645_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	5-B8
+MT644702.1.1610_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	6-B4
+MT644700.1.1539_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	2-D1
+JX661035.1.1082_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	
+MT644679.1.650_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	32-R1
+MT644678.1.647_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R3
+MT644677.1.647_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	9-R1
+MT644672.1.647_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R7
+MT644671.1.647_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R6
+MT644670.1.647_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_sp.	1	35-R4
+LS974160.1.3121_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	N-04-02
+LS974159.1.3121_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	N-04-01
+LS974163.1.3119_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	N-05-01
+LS974168.1.3056_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	N-16-02
+JX559885.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	SHETF6
+JN680857.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	SM2
+JX262491.1.1761_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	RCC2538
+LS974162.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	N-04-04
+LS974165.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	N-05-02
+MT791405.1.1618_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	6-A1
+MT791401.1.1600_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	1-H10
+MT791404.1.1599_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	5-D3
+FJ217814.1.1521_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	3D9
+HQ324900.1.1521_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	
+MT791402.1.1491_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	2-A3
+MT791403.1.914_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	5-B9
+EU500034.1.821_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	
+MT791484.1.590_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_spinosum	1	5-B9
+LS974170.1.3076_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	N-39-04
+KJ481817.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	4B11
+KJ481803.1.1793_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	A2D11
+KJ481808.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	4A8
+KJ481811.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	4A8
+KJ481813.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	A2D11
+KJ481815.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	1	4B11
+MF033109.1.1663_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_zhuanum	1	
+KF925338.1.1638_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_arctica	1	
+MZ774010.1.1723_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_bohaiensis	1	TASGHC178B3
+MZ774009.1.1718_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_bohaiensis	1	ATM178HC3
+MZ774061.1.836_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_bohaiensis	1	ATMC178HC3
+MZ774062.1.835_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_bohaiensis	1	TASG178HCB3
+OR224571.1.575_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_bohaiensis	1	20PV100
+MZ773999.1.1755_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd1409S4
+MZ774002.1.1750_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd1809S23
+MZ774000.1.1747_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd1409S6
+MZ773998.1.1734_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd1409S3
+MZ774003.1.1727_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	STA1409S3
+MZ774053.1.858_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	STA1409S3
+MZ774048.1.843_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	BK0910B8
+MZ774050.1.841_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd2109S9
+MZ774052.1.840_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	ST1809S6
+MZ774049.1.840_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd2109S8
+MZ774051.1.839_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_borneoensis	1	Pd2109S10
+EF492492.1.1787_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_cf._niei	1	
+LC054932.1.1766_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_circularisquama	1	HG17
+OP970968.1.3748_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_horiguchii	1	HH-2003PS-01
+MZ774013.1.1748_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_huensis	1	PD1409S7
+MZ774011.1.1735_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_huensis	1	ST1809S3
+MZ774063.1.827_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_huensis	1	ST1809S10
+MZ774065.1.823_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_huensis	1	Pd1409S7
+MZ774064.1.817_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_huensis	1	St1809S3
+MZ774008.1.1749_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_iwatakii	1	AKkr233HD7
+MZ774007.1.1704_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_iwatakii	1	STA1409S1
+MZ774060.1.834_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_iwatakii	1	AKkrHD7
+OQ383682.1.651_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_lanceolata	1	BS4-F7
+MZ774005.1.1748_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_limii	1	Pd1409S1
+MZ774004.1.1743_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_limii	1	STA1409S4
+MZ774056.1.839_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_limii	1	ST1809S5
+MZ774055.1.839_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_limii	1	STA1409S5
+MZ774057.1.837_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_limii	1	Pd1409S1
+MZ774058.1.835_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_limii	1	Pd1409S2
+MW626888.1.1635_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_minima	1	HtLomme03
+OQ383683.1.663_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_minima	1	BS3-E3
+KJ757749.1.1802_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EF527103.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ759660.1.1800_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ757872.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ757990.1.1799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ763303.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ757945.1.1797_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ758179.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ764464.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EF527124.1.1758_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+AY664878.1.1755_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+AY664920.1.1755_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+AY664944.1.1755_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+JN832715.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KJ925426.1.1657_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+JF826366.1.1613_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EU418968.1.1590_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+FJ832117.1.1590_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+DQ310192.1.1568_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EF526991.1.1566_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+DQ310340.1.1566_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+FJ914415.1.1528_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+FJ914452.1.1526_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+FJ914431.1.1524_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+FJ914475.1.1522_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EF527048.1.1390_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EF526783.1.1343_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EF527089.1.1309_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+HM561125.1.921_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+HQ865021.1.888_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+HQ865623.1.887_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+EU500036.1.817_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	1	
+KU900227.1.1797_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	1	UTEX LB 2722
+EF492499.1.1793_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	1	
+AF274265.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	1	CCMP 447
+ON660934.1.930_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	1	 
+LC054933.1.1748_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_psammophila	1	TM43
+OP968025.1.3767_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pseudotriquetra	1	HP-HD1804-01
+KJ763387.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+KJ763053.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+KJ763070.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+KJ763178.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+KJ763255.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+KJ763314.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+KJ763350.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+AY692271.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+AF274266.1.1731_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	CCCM 681
+EF492500.1.1698_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+FJ832108.1.1588_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+JN098200.1.1539_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+JN098193.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+JN098195.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+DQ386738.1.1537_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+JN098203.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+EF100400.1.1399_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ869607.1.918_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864874.1.892_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865068.1.888_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865006.1.887_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865024.1.886_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865026.1.885_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865166.1.885_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865020.1.885_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864970.1.884_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864980.1.884_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865078.1.884_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864941.1.884_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865177.1.883_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865080.1.883_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864897.1.880_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ865036.1.878_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864940.1.877_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864869.1.876_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+HQ864935.1.873_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	
+OR194073.1.569_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	1	19PV99
+AF274267.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	CCCM 680
+MH071708.1.1745_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	SIOpier9
+DQ388464.1.1702_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	ccmp1542
+KY094990.1.938_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	RCC4846
+KY094994.1.937_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	RCC4804
+HQ869304.1.867_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	
+HQ865145.1.863_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	
+AY628360.1.822_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	1	
+AF033865.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ757902.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ762841.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ762837.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ763022.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ763128.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ763044.1.1797_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+FJ549370.1.1796_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ758217.1.1793_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+EF492494.1.1792_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+EU371191.1.1790_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+AB183639.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	MBIC10795
+AF372783.1.1687_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+KJ925490.1.1488_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+JX661034.1.1143_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+JX661030.1.1079_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+JX661033.1.963_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+LN735265.1.791_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	RCC 1516
+KT860952.1.640_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	RCC2616
+MT796135.1.626_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	A1-B5
+MT796190.1.626_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	G8
+JX661031.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	1	
+MF423346.1.1781_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	1	UTKG1
+MF423349.1.1780_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	1	UTKG5
+MF423347.1.1780_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	1	UTKG3
+MF423348.1.1780_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	1	UTKG4
+MF423350.1.1769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	1	UTKG7
+OL966538.1.1531_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	1	SMS
+AF022198.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+AY421787.1.1788_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+AB183670.1.1754_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	MBIC11142
+AJ415514.1.1749_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+GU594638.1.1666_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	CCMP448
+AF130038.670.2214_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	CCMP 449
+GU647165.1.1538_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+FJ491256.1.1513_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+FJ914432.1.1485_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+HQ902266.1.1050_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+AY628364.1.822_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	
+DQ887501.1.519_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_triquetra	1	D-009
+AB694595.1.720_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	0	
+AB694569.1.700_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	0	
+JF972085.1.526_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	0	
+AB694629.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_baltica	0	
+KP685248.1.1128_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_ellegaardiae	0	
+OQ152410.1.1855_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_geomunensis	0	
+AB851545.1.585_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851517.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851521.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851539.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851551.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851556.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851560.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851564.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851518.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851540.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851654.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851664.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851696.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851710.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851729.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851772.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851567.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851574.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851600.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851626.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851631.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851639.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851695.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851703.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851741.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851502.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851537.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851562.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851566.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851638.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851702.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851706.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851732.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851779.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851602.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851621.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851637.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851663.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851671.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851683.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851722.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851726.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851531.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851535.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851547.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851568.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851573.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851579.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851506.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851601.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851605.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851632.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851640.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851684.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851700.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851714.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851719.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851723.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851750.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851755.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851759.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851559.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851563.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851581.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851585.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851589.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851611.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851615.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851619.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851624.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851651.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851655.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851659.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851669.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851677.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851685.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851715.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851720.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851728.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851525.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851533.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851549.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851576.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851582.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851586.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851591.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851599.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851603.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851607.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851771.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851652.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851662.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851712.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851744.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851753.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851781.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851786.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851501.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851508.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851520.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851522.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851570.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851577.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851598.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851606.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851633.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851641.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851653.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851713.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851739.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851749.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851768.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851773.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851787.1.579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851523.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851597.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851548.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851733.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851571.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851590.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851595.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851612.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851648.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851678.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851512.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851657.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851691.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851705.1.578_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851514.1.577_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851788.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851716.1.575_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851596.1.573_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+AB851643.1.571_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_nezaniae	0	
+OQ152412.1.1871_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152414.1.1869_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152419.1.1849_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152423.1.1846_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152427.1.1839_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152425.1.1833_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152421.1.1831_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152432.1.1813_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+OQ152431.1.1813_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+KC337184.1.567_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+KC337187.1.567_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+KC337169.1.565_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_polygramma	0	
+KP685298.1.1135_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	0	
+KM067434.1.1096_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	0	
+KP685265.1.1095_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	0	
+AB694561.1.690_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	0	
+AB694537.1.680_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_sp.	0	
+GU474379.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Gonyaulacaceae	Gonyaulax	Gonyaulax_whaseongensis	0	
+MN752257.1.2976_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	0	
+MG835767.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_affine	0	
+KR362905.1.1724_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	0	
+KP685264.1.1156_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_andersonii	0	
+OJHA01000621.1777.3566_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OLGP01000005.1134.2923_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OJCD01000476.1.1336_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OJGM01007285.1.1175_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OJEE01001844.1371.2520_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OLHU01002459.1176.2325_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OJHL01000861.2.1139_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+OJCC01001409.1.1124_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+JF727621.1.799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KC851783.1.559_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KC851784.1.559_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127914.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127922.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127928.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127916.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127920.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127924.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127926.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127915.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127913.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127921.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127925.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127927.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KF670135.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KF670137.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127912.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ127929.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+HQ227811.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+HQ227812.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925710.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925676.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925684.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925688.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925720.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925655.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925659.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925679.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925691.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925653.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925693.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KJ925697.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_catenella	0	
+KX097020.1.1621_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fragae	0	
+MN752258.1.2964_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_fraterculus	0	
+KP404887.1.1798_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	0	
+KP404648.1.1781_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	0	
+OBEP010811026.1.1470_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	0	
+OBEP010715851.1.1407_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	0	
+OBEP010794154.1.1367_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	0	
+OBPS01001868.1.1127_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_hiranoi	0	
+MZ621005.1.1591_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_insuetum	0	
+KJ638885.1.561_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_minutum	0	
+MN752260.1.2927_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	0	
+OP704116.1.1696_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	0	
+MG835769.1.1298_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	0	
+KF289813.1.678_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pacificum	0	
+MZ620901.1.1539_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_pohangense	0	
+KP404888.1.1801_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_satoanum	0	
+KP404649.1.1784_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_satoanum	0	
+MN752259.1.3016_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+KF471127.1.1978_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921180.1.1973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921182.1.1973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921184.1.1973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921197.1.1973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921179.1.1973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921183.1.1973_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921186.1.1954_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921181.1.1954_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921196.1.1951_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921188.1.1950_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921185.1.1950_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921193.1.1950_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921191.1.1950_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921198.1.1950_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921189.1.1949_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921195.1.1949_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921190.1.1948_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921194.1.1948_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921187.1.1948_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921176.1.1945_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921192.1.1944_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921174.1.1768_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921169.1.1765_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921166.1.1762_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921178.1.1754_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921173.1.1754_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921171.1.1753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921177.1.1752_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921172.1.1740_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921175.1.1732_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JX113683.1.1579_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JF921170.1.1570_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+MW020019.1.597_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+MW020018.1.597_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp.	0	
+JN098209.1.1536_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_sp_01	0	
+KJ127918.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KJ127930.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KJ127919.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KJ127923.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KJ127917.1.510_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KF670136.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KF670134.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+KJ925640.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamarense	0	
+OK896992.1.823_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	0	
+OK896993.1.815_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gonyaulacales	Pyrocystaceae	Alexandrium	Alexandrium_tamutum	0	
+JX195108.1.676_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_carterae	0	
+AB851628.1.581_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_gibbosum	0	
+AB851644.1.580_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_gibbosum	0	
+KC336948.1.747_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_longum	0	
+KC336946.1.690_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_longum	0	
+ON146461.1.1688_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_operculatum	0	
+ON188792.1.1660_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	0	
+JQ241876.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	0	
+JQ242852.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	0	
+JQ241895.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	0	
+JQ244479.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_sp.	0	
+JQ242574.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_steinii	0	
+MG753971.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_steinii	0	
+MG753970.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_steinii	0	
+OP161894.1.1631_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_stirisquamtum	0	
+OP161897.1.1380_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_stirisquamtum	0	
+OP161896.1.1294_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_stirisquamtum	0	
+OP161895.1.1205_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Amphidinium	Amphidinium_stirisquamtum	0	
+MZ620887.1.1539_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	0	
+LC191137.1.507_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dalianense	0	
+KX532286.1.1335_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_dexteroporum	0	
+MH685461.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685465.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685464.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685468.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685462.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685466.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685463.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MH685467.1.1737_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MF033112.1.1730_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MF033111.1.1663_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MF033110.1.1660_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+KJ569019.1.559_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+KJ644580.1.559_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_poporum	0	
+MG890401.1.1710_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	0	
+MZ620764.1.1593_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	0	
+KX532290.1.1315_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	0	
+KP270641.1.813_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	0	
+GQ402470.1.529_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Amphidomataceae	Azadinium	Azadinium_trinitatum	0	
+KF289812.1.535_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_circularisquama	0	
+MW077537.1.3257_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_horiguchii	0	
+ON459703.1.664_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_horiguchii	0	
+MW267275.1.623_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_horiguchii	0	H-1-A6
+OQ162335.1.1815_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+KP270494.1.776_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+AY426864.1.681_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JX841861.1.596_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+HM857920.1.593_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+HM857969.1.584_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+DQ918202.1.553_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+EU078296.1.527_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275229.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275465.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275475.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275489.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275231.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275459.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275649.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+JF275653.1.500_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_nei/rotundata	0	
+LC189145.1.1711_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	NIES-3881
+KY980397.1.1709_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+ON459692.1.1648_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+ON459691.1.1648_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+ON459693.1.1647_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+MZ620948.1.1584_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KX532338.1.1337_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KM067428.1.1135_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KP685256.1.1134_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KP685272.1.1095_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KC336918.1.753_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KC336937.1.735_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KC336916.1.701_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KM277394.1.614_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KR138576.1.614_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+JX841923.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+JQ242905.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+JQ242740.1.576_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KM277376.1.562_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+KR138572.1.562_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+EU078302.1.526_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+HM227340.1.511_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+HM227404.1.511_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+FJ949481.1.509_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_niei	0	
+OQ120428.1.664_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pseudotriquetra	0	
+FJ431710.1.789_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+LC220669.1.769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+LC220674.1.769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+LC220729.1.769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+LC220676.1.769_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+DQ119959.1.690_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+DQ119957.1.690_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+GU370006.1.668_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+FN263272.1.657_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+HM858620.1.643_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+HM859446.1.642_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+HM859450.1.637_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+HM858692.1.587_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+HM859477.1.562_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_pygmaea	0	
+HQ864928.1.876_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	0	
+FJ431760.1.799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	0	
+DQ119958.1.690_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	0	
+HM856954.1.637_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	0	
+AJ965178.1.551_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_rotundata	0	
+KY980043.1.1692_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KX602131.1.1692_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KY980045.1.1692_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KY980387.1.1692_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KY980000.1.1692_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KY980024.1.1692_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KY980009.1.1691_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KY980329.1.1689_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+OBEP010801144.1.1389_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KP685274.1.943_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+FN690168.1.799_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KX913718.1.742_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841949.1.596_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841399.1.596_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841346.1.596_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841353.1.595_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841616.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841676.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841727.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841913.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX842242.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841561.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841872.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841583.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841595.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841726.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841810.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX661032.1.567_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+GU433136.1.566_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JF260905.1.558_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KM277391.1.558_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KR138574.1.558_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+KR138575.1.557_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JF273992.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX945742.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_sp.	0	
+JX841355.1.594_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+AB513687.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JF273975.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JF273976.1.525_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN585071.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JX945724.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN979508.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN979494.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN979505.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN979507.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN979490.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JX945746.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JX945750.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JX945721.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JX945757.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JX945707.1.523_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
+JN979498.1.522_U	Eukaryota	TSAR	Alveolata	Dinoflagellata	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa_steinii	0	
