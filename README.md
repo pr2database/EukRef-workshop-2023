@@ -29,7 +29,7 @@ Contains the sequence labelled with the PR2 accession number
 
 - Contains information about each sequence that can be uploaded to
   TreeView or TreeViewer.
-- Fields are separated by tabulation (.
+- Fields are separated by tabulation.
 - Species that have been assigned automatically by dada2 are labelled
   with 1 in the column `pr2_annotated`
 
@@ -72,6 +72,10 @@ In addition columns:
 - `pr2_annotated` is 1 if the sequence is part of the PR2 database and 0
   if it is not been annotated
 - `species_old` should not be changed if you edit the species column
+
+## Instructions to edit xlsx files
+
+- [Instructions](https://pr2-database.org/documentation/pr2-annotation-simple/)
 
 ## PR2 curation pipeline for EukRef workshop
 
