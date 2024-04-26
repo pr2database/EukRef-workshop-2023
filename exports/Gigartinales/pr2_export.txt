@@ -10,7 +10,6 @@ AY772728.1.1784_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyce
 AY437666.1.1776_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Austroclonium	Austroclonium_charoides	1	
 AY437653.1.1782_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Betaphycus	Betaphycus_speciosum	1	
 GQ337071.1.1746_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Bonnemaisonia	Bonnemaisonia_asparagoides	1	
-AY731516.1.1260_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Bonnemaisonia	Bonnemaisonia_asparagoides	1	
 GQ337072.1.1729_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Bonnemaisonia	Bonnemaisonia_clavata	1	
 L26182.3.1764_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Bonnemaisonia	Bonnemaisonia_hamifera	1	
 GQ337073.1.1746_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Bonnemaisonia	Bonnemaisonia_hamifera	1	
@@ -48,10 +47,6 @@ DQ316996.1.1778_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyce
 DQ316998.1.1778_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	
 Z14140.1.1778_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	
 DQ316997.1.1776_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	
-HF562234.180087.181582_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	PCG
-NC_020795.27238.28733_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	PCG
-Z29521.135.1625_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	
-AY731511.1.1259_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	
 DQ317001.1.1236_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_crispus	1	
 DQ316986.1.1779_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_nipponicus	1	
 DQ316987.1.1777_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Chondrus	Chondrus_nipponicus	1	
@@ -103,9 +98,6 @@ HM765770.5543.7320_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideoph
 JQ780839.1.1640_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gigartinales_XX	Gigartinales_XX_sp.	1	
 EF100201.1.1538_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gigartinales_XX	Gigartinales_XX_sp.	1	
 EF100223.1.1521_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gigartinales_XX	Gigartinales_XX_sp.	1	
-FJ203543.1.1413_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gigartinales_XX	Gigartinales_XX_sp.	1	
-FJ203286.1.1412_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gigartinales_XX	Gigartinales_XX_sp.	1	
-DQ269106.1.1356_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gigartinales_XX	Gigartinales_XX_sp.	1	
 U33130.1.1773_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gloiopeltis	Gloiopeltis_furcata	1	
 AY437675.1.1773_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gloiophyllis	Gloiophyllis_barkeriae	1	
 AY437680.1.1773_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Gloiosiphonia	Gloiosiphonia_capillaris	1	
@@ -145,7 +137,6 @@ EU240858.1.1485_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyce
 EU240865.1.1485_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Hypnea	Hypnea_sp.	1	
 EU240859.1.1485_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Hypnea	Hypnea_sp.	1	
 EU240867.1.1485_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Hypnea	Hypnea_sp.	1	
-AY731512.1.1258_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Hypnea	Hypnea_sp.	1	
 EU240856.1.1485_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Hypnea	Hypnea_spinella	1	
 EU240857.1.1485_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Hypnea	Hypnea_spinella	1	
 AF317111.21.1745_U	Eukaryota	Archaeplastida	Rhodophyta	Rhodophyta_X	Florideophyceae	Gigartinales	Gigartinales_X	Kallymenia	Kallymenia_tasmanica	1	
