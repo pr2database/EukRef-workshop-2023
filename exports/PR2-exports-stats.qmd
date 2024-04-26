@@ -42,6 +42,12 @@ Including curated EukRef files
 - Number of sequences exported - pr2 expert annotation: 1783 
 - Number of sequences exported - dada2 automated annotatation: 2027 
 
+## Opisthokonta
+
+###  Choanoflagellata 
+- Number of sequences exported - pr2 expert annotation: 546 
+- Number of sequences exported - dada2 automated annotation: 1496 
+
 # EurRef workshop 2023
 ```
 
