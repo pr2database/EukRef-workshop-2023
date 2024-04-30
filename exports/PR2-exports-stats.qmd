@@ -10,47 +10,63 @@ Including curated EukRef files
 
 ## Archaeplastida
 
-### Ceramiales 
+### Rhodophyta
+#### Ceramiales 
 - Number of sequences exported - annotated: 470
 - Number of sequences exported - other: 112
 
-### Batrachospermales 
+#### Batrachospermales 
 - Number of sequences exported - annotated: 72
 - Number of sequences exported - other: 38
 
-### Gigartinales 
+#### Gigartinales 
 - Number of sequences exported - pr2 expert annotation: 237 
 - Number of sequences exported - dada2 automated annotatation: 50 
 
-### Ulvophyceae
+### Chlorophyta
+#### Ulvophyceae
 - Number of sequences exported - pr2 expert annotation: 1907 
 - Number of sequences exported - dada2 automated annotatation: 1480
 
-### Chloropicophyceae 
+#### Chloropicophyceae 
 - Number of sequences exported - annotated: 298
 - Number of sequences exported - other: 107
 
-### Picocystophyceae 
+#### Picocystophyceae 
 - Number of sequences exported - annotated: 19
 - Number of sequences exported - other: 8
+
+#### Sphaeropleales 
+- Number of sequences exported - pr2 expert annotation: 1783 
+- Number of sequences exported - dada2 automated annotatation: 2027 
 
 ### Picozoa
 - Number of sequences exported - annotated: 293
 - Number of sequences exported - other: 176
 
-### Sphaeropleales 
-- Number of sequences exported - pr2 expert annotation: 1783 
-- Number of sequences exported - dada2 automated annotatation: 2027 
 
 ## Opisthokonta
-
 ###  Choanoflagellata 
 - Number of sequences exported - pr2 expert annotation: 546 
 - Number of sequences exported - dada2 automated annotation: 1496 
 
-###  Aphelidiomycota_et_al 
+### Fungi
+####  Aphelidiomycota_et_al 
 - Number of sequences exported - pr2 expert annotation: 1414 
 - Number of sequences exported - dada2 automated annotation: 1152
+
+## TSAR
+### Alveolata
+#### Ciliophora
+#####  Pleurostomatida 
+- Number of sequences exported - pr2 expert annotation: 175 
+- Number of sequences exported - dada2 automated annotation: 289 
+
+#####  Cyrtophoria 
+- Number of sequences exported - pr2 expert annotation: 213 
+- Number of sequences exported - dada2 automated annotation: 185 
+
+---
 
 # EurRef workshop 2023
 ```
