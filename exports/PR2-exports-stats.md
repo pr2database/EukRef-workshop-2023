@@ -81,6 +81,13 @@ Including curated EukRef files
 - Number of sequences exported - pr2 expert annotation: 213
 - Number of sequences exported - dada2 automated annotation: 185
 
+### Stramenopiles
+
+#### MAST
+
+- Number of sequences exported - pr2 expert annotation: 2001
+- Number of sequences exported - dada2 automated annotation: 900
+
 ------------------------------------------------------------------------
 
 # EurRef workshop 2023
