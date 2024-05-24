@@ -38,11 +38,16 @@ List of currently curated groups with the person(s) in charge
 
 ## Opisthokonta
 ### Fungi
-#### Microsporida  - Lilith -  done - to integrate into PR2 5.1
+#### Microsporida  - Lilith - done - to integrate into PR2 5.1
 Number of sequences exported - annotated: 1345
 Number of sequences exported - other: 2096
 
 ## TSAR
+
+### Rhizaria
+#### Foraminifera - Raphael Morard - done - to integrate into PR2 5.1
+
+
 ### Alveolata
 #### Dinophyta
 #####  Suessiales - Anthony -  done - to integrate into PR2 5.1
@@ -103,7 +108,6 @@ Number of sequences exported - other: 2096
 
 
 #### Dinophyta
-
 
 ### Stramenopiles
 #### MAST - Aleix Obiol and Ramon Massana

@@ -49,6 +49,10 @@ exported - other: 2096
 
 ## TSAR
 
+### Rhizaria
+
+#### Foraminifera - Raphael Morard - done - to integrate into PR2 5.1
+
 ### Alveolata
 
 #### Dinophyta
