@@ -1,0 +1,759 @@
+pr2_accession	domain	supergroup	division	subdivision	class	order	family	genus	species	pr2_annotated	gb_strain
+GU437219.1.3605_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	AusBG-8-1
+GU437218.1.2469_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	HI06-7a-5a
+GU437222.1.2437_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	Sk6a-1
+GU437222.1.2437_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	Sk6a-1
+GU437220.1.2028_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	BM07-A1-1
+GU437218.1.2469_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	HI06-7a-5a
+GU437219.1.3605_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	AusBG-8-1
+GU437221.1.1835_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	HI09-40B
+GU437221.1.1835_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_helenhemmesae	1	HI09-40B
+HM114345.1.3114_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_kona	1	HI06-7a-5b
+HM114344.1.3100_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_kona	1	ATCC MYA-3509
+HM114346.1.2751_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_kona	1	ATCC MYA-3364
+HM114346.1.2751_UC	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_kona	1	ATCC MYA-3364
+HM114345.1.3114_UC	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_kona	1	HI06-7a-5b
+HM114344.1.3100_UC	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_kona	1	ATCC MYA-3509
+AF011458.1.3112_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	T-235
+HM114340.1.3100_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	1Ba5-1
+AF011458.1.3112_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	T-235
+HM114339.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	NJ08-1A-1
+HM114341.1.2081_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	NZ05-36a-1
+HM114342.1.2080_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	UK05-8-2
+HM114340.1.3100_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	1Ba5-1
+HM114343.1.1369_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_rosea	1	LOST07-L11-1
+HM114347.1.1998_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Acrasis	Acrasis_takarsan	1	THAI08-23g-1
+MF680037.1.2003_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_minuta	1	GF1
+JQ271670.1.3495_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	PV66
+DQ388519.1.3442_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	
+KF547916.1.3418_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	NL64
+AY965862.1.2178_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	
+EU266548.1.2133_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	SO/1P
+DQ388519.1.3442_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	
+DQ388520.1.2129_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	
+JQ271668.1.2129_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	4165
+JQ271669.1.2127_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	PS1073J
+LC683687.1.2085_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	S35YCH
+OR750521.1.2046_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	 
+KF547914.1.2038_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	Sar9
+KF547918.1.2032_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	Tib50
+KF547915.1.2026_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	Sar37
+KF547919.1.2010_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	Tib191
+LC106122.1.1999_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	F11
+KF547917.1.1962_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	Tib32
+OR835441.1.828_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	 
+KC669503.1.635_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	D_FLA1
+KC346961.1.630_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	CL2-34
+KM220721.1.539_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	1	
+EU696948.1.2138_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_spelaea	1	SK1
+GU569163.1.671_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Solumitrus	Solumitrus_sp.	1	T3
+KJ210081.1.2236_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Heterolobosea_X	Creneidae	Creneis	Creneis_carolina	1	PC4AM
+JX509941.1.2392_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Heterolobosea_X	Heterolobosea_XX	Heterolobosea_XXX	Heterolobosea_XXX_sp.	1	BB2
+KF357308.1.616_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Heterolobosea_X	Heterolobosea_XX	Heterolobosea_XXX	Heterolobosea_XXX_sp.	1	
+MZ264850.1.1811_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Barbeliidae	Barbelia	Barbelia_abyssalis	1	HFCC 2
+MZ264849.1.1764_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Barbeliidae	Barbelia	Barbelia_atlantica	1	HFCC 3
+MZ264848.1.1808_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Lulaidae	Lula	Lula_jakobsenorum	1	HFCC 219
+ON372682.1.1858_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Lulaidae	Lula	Lula_levis	1	HFCC 936
+ON372681.1.1857_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Lulaidae	Lula	Lula_levis	1	HFCC 1607
+MZ264847.1.1261_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Nakurumonas	Nakurumonas_serrata	1	HFCC 1234
+ON372680.1.1693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_adaptabilis	1	HFCC 1613
+AF011464.1.2100_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_cosmopolitus	1	ATCC 50343
+AF519443.1.1810_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_cosmopolitus	1	
+MZ264846.1.1712_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_cosmopolitus	1	HFCC 1
+MN105104.1.1871_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_doradorae	1	S4
+MN105102.1.1780_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_doradorae	1	XLG1-P
+MZ264844.1.1728_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_doradorae	1	HFCC 1213
+ON372679.1.1698_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_doradorae	1	HFCC 5010
+MN105106.1.1693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_doradorae	1	LRS
+MN105101.1.1817_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_lacustris	1	HLM-6
+MN105103.1.1975_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_sp.	1	P5-P
+MN105105.1.1844_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_sp.	1	SD2A
+MN105107.1.1799_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_sp.	1	LO
+MZ264845.1.1630_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Percolomonas	Percolomonas_sp.	1	HFCC 1236
+GQ377673.1.2211_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Stephanopogonidae	Stephanopogon	Stephanopogon_apogon	1	ATCC50096
+EF051256.1.1395_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Stephanopogonidae	Stephanopogon	Stephanopogon_colpoda	1	
+AB365646.1.2126_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Stephanopogonidae	Stephanopogon	Stephanopogon_minuta	1	
+KJ778681.1.1931_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Stephanopogonidae	Stephanopogon	Stephanopogon_pattersoni	1	KM041
+HQ898857.1.3325_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_kirbyi	1	AS12B
+AF011465.1.2962_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_kirbyi	1	ATCC 50621; ATCC 50622
+HQ898858.1.2944_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_kirbyi	1	SD1A
+AF011465.1.2962_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_kirbyi	1	ATCC 50621; ATCC 50622
+HQ898858.1.2944_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_kirbyi	1	SD1A
+HQ898857.1.3325_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_kirbyi	1	AS12B
+JX509943.1.2231_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_sp.	1	RL
+JX509942.1.2151_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_sp.	1	LO
+KX670815.1.1926_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Selenaionida	Selenaionidae	Dactylomonas	Dactylomonas_crassa	1	RABBIT
+KX670816.1.1914_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Selenaionida	Selenaionidae	Dactylomonas	Dactylomonas_crassa	1	SPINDL2
+KX670818.1.1947_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Selenaionida	Selenaionidae	Dactylomonas	Dactylomonas_venusta	1	CVIA
+JX025226.1.1967_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Selenaionida	Selenaionidae	Selenaion	Selenaion_koniopes	1	
+AJ224891.1.1843_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_damariscottae	1	CCAP 1588/7
+ABAV01034229.1091.2504_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_damariscottae	1	CH2 x CH6
+LC126917.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126921.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126925.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126929.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126933.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126937.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126941.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126945.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126949.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126953.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126961.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126965.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126980.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126919.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126923.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126927.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126931.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126939.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126943.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126947.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126951.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126955.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126963.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126967.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126971.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126975.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126978.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126918.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126922.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126926.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126930.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126934.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126938.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126942.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126946.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126950.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126954.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126958.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126962.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126966.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126974.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126977.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126981.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126920.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126924.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126928.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126932.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126936.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126940.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126944.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126948.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126952.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126956.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126960.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126964.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126968.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126972.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126976.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126979.1.2087_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126957.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126969.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126973.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126935.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126959.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+LC126970.1.2086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_nana	1	
+AY965861.1.1900_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_sp.	1	
+DQ504339.1.1911_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfiidae_X	Neovahlkampfiidae_X_sp.	1	
+LN577852.1.746_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Tetramitia_I_X	TET_I_1	TET_I_1_sp.	1	
+LN577864.1.744_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Tetramitia_I_X	TET_I_1	TET_I_1_sp.	1	
+LN586854.1.736_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Tetramitia_I_X	TET_I_1	TET_I_1_sp.	1	
+KT892699.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Tetramitia_I_X	Tetramitia_I_XX	Tetramitia_I_XX_sp.	1	LPG3
+GU922832.1.505_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Tetramitia_I_X	Tetramitia_I_XX	Tetramitia_I_XX_sp.	1	
+MH002456.1.2541_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Aurem	Aurem_hypersalina	1	ES31
+DQ979962.1.2598_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Pleurostomum	Pleurostomum_flabellatum	1	EHF1
+DQ979962.1.2598_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Pleurostomum	Pleurostomum_flabellatum	1	EHF1
+KT210077.1.2126_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Pleurostomum	Pleurostomum_sp.	1	WVII 10/2 320
+KT210076.1.1972_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Pleurostomum	Pleurostomum_sp.	1	H4
+KC486154.1.1849_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Pleurostomum	Pleurostomum_sp.	1	
+KT210075.1.1540_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Pleurostomum	Pleurostomum_sp.	1	H1
+KJ776753.1.1944_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Tulamoeba	Tulamoeba_bucina	1	
+FJ222603.1.1964_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Tulamoeba	Tulamoeba_peronaphora	1	A1
+KJ607139.1.1998_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Tulamoeba	Tulamoeba_sp.	1	
+KJ607140.1.1931_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Tulamoeba	Tulamoeba_sp.	1	
+KT210085.1.1463_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Tulamoebidae	Tulamoeba	Tulamoeba_sp.	1	H3
+FM244741.1.2025_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Marinamoeba	Marinamoeba_sp.	1	
+AM062740.1.696_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	NG 006
+OP297035.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	EAP1L
+OP297034.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	TS3-1
+OP297032.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	XOCH1-3
+OP297031.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	XOCH2-3
+OP297030.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	XOCH1-2
+OP297029.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	S6
+OP297028.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	S5
+OP297027.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	1	TS3-2
+OQ627480.1.2020_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	PP397
+JQ271699.1.2011_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	BCHV5
+AY321362.1.1980_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	
+AF338421.1.1980_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	CB2B/I
+U80058.1.1975_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	PP 397
+OQ520223.1.1847_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	NR14-0726-1
+FJ628000.1.664_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	S159-R1
+FJ628001.1.664_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	S156-R1
+EU377596.1.597_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	1	CRIB44
+FJ940719.1.751_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_cf._australiensis	1	
+FJ948856.1.828_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_cf._gruberi	1	
+FJ940707.1.754_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_cf._gruberi	1	
+AJ243442.1.802_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_chilensis	1	NG946
+JQ271697.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	6HZV
+JQ271704.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	MSED4
+JQ271691.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	2HZ
+JQ271694.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4HZ
+JQ271698.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	ALM1A
+JQ271705.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	TMR
+JQ271692.1.3316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	3HZ
+DQ768725.1.3315_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	CB1S/I
+JQ271696.1.3311_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	6HFKL
+AF338417.1.3285_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	Pd72Z/I
+AF338419.1.3285_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4564/IV
+AF338418.1.3285_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4177/I
+AF338420.1.3285_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4709/I
+KC527832.1.3285_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	N-DMLG
+AF338422.1.3285_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	Pd56Z/I
+AF338418.1.3285_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4177/I
+AF338417.1.3285_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	Pd72Z/I
+AF338419.1.3285_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4564/IV
+AF338420.1.3285_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	4709/I
+AF338422.1.3285_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	Pd56Z/I
+KC527832.1.3285_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	N-DMLG
+X78277.1.1319_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	AB-T-F3
+AJ001399.1.1318_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	NG872
+X78278.1.1316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	CCAP1518/1D
+Z16417.1.1309_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	
+X78280.1.1309_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	A2
+X78279.1.1307_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	T56E
+X78281.1.1305_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	RU30
+KT257698.1.862_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	PrGuaN
+EU377597.1.559_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	1	CRIB43
+AWXF01000306.100.2116_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	ATCC 30863
+AF338423.1.1988_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	360
+U80059.1.1982_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	MCM
+KT375442.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	
+KJ000398.1.1052_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	Mato Forroba
+KJ000396.1.992_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	Palche Lala
+KJ000397.1.939_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	Empada
+KJ000395.1.930_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	Watine
+MW033524.1.558_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	1	IndiaCA
+DQ768719.1.2011_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fultoni	1	4796/I
+JQ271700.1.2011_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fultoni	1	GG1BV
+AJ243440.1.795_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fultoni	1	NG885
+EU377591.1.569_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fultoni	1	CRIB71
+AB298288.901.2920_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	NEG-M
+OR769034.1.2020_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	NEG-M
+M18732.1.2019_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	
+ACER01001511.131.1512_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	NEG-M
+ACER01001732.236.1551_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	NEG-M
+AY266314.1.697_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	CCAP 1518/1c
+OP297026.1.678_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	1	3HKMJS1
+AJ243441.1.800_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_indonesiensis	1	NG945
+U80060.1.1974_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_italica	1	AB-T-F3
+MF113400.1.2017_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_jejuensis	1	JJ42108A
+MF113402.1.2028_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_koreanum	1	JJ51108A
+U80062.1.1981_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_lovaniensis	1	C-0490
+X93224.1.1923_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_minor	1	WTO43
+MF113404.1.2393_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_neojejuensis	1	JJ42118A
+LC106128.1.741_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_neopolaris	1	GRZ3
+LC106130.1.726_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_neopolaris	1	TT19
+LC106129.1.639_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_neopolaris	1	TT13
+DQ768714.1.2011_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	1	A22/I
+DQ768721.1.2011_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	1	4830/I
+KX069001.1.1822_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	1	ST-39
+AM062732.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	1	1518/1E
+LC106126.1.758_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_polaris	1	F26
+LC106127.1.735_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_polaris	1	F32
+LC106124.1.734_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_polaris	1	F20
+AJ237786.1.800_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_robinsoni	1	NG944
+AM062731.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_schusteri	1	1518/1F
+DQ768723.1.3359_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	SUM3V/I
+DQ768716.1.3318_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	BCZ4/I
+DQ768724.1.3317_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	GP3/III
+DQ768715.1.3317_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CL/I
+AF011457.1.2048_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	ATCC 30294
+DQ768723.1.3359_UC	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	SUM3V/I
+DQ768720.1.2021_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	RR13Z/I
+DQ768722.1.2021_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	RR11Z/I
+JQ271693.1.2021_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	4542
+JQ271702.1.2021_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	J14Z1
+HM363629.1.2016_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	GERK
+DQ768717.1.2013_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	S1Z/I
+DQ768718.1.2013_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	O3Z/I
+JQ271701.1.2013_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	GG4BV
+JQ271703.1.2013_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	K4482J
+JQ271695.1.2011_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	62K4
+GU320598.1.2010_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+DQ768716.1.3318_UC	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	BCZ4/I
+JN635490.1.1433_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+JN635485.1.1430_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+JN635477.1.1430_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+JN635484.1.1430_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+JN635486.1.1430_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+EF378677.1.1333_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	F1-15
+AY576366.1.1322_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	550
+EF378680.1.1316_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	F1-28
+EF378676.1.1306_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	F1-9
+GU320579.1.1302_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+EF378678.1.1295_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	F1-25
+AY576367.1.1255_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	552
+FN865795.1.1206_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN864428.1.1206_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN860173.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN863645.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN862490.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN866074.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN864858.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN860554.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FN863141.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+DQ423743.1.1028_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+PP258997.1.1009_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	SARCA12
+EF378679.1.960_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	F1-27
+AY496006.1.930_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+HQ007042.1.827_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	D5
+Y10189.1.802_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+Y10188.1.801_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+Y10187.1.801_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+Y10186.1.800_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+Y10185.1.799_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AF114439.1.796_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+Y10184.1.794_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+LC106125.1.727_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	F25B
+AM071385.1.698_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	NG260
+AM062726.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	Ci53e1
+AM062730.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	Ci51f18
+AM062734.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	D4R3d5b
+AM062739.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	NG 152
+AM062727.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	Cn14
+AM062729.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	PB50
+AM062733.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	Ci47d5b
+AM062728.1.693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	PB77
+EU377593.1.687_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CRIB62
+KC346963.1.684_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CL1-C05
+OP297033.1.681_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	TA37-1
+KT385863.1.672_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+EU377592.1.671_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CRIB65
+EU273836.1.664_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CRIB-34
+EU273837.1.659_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CRIB-35
+AB970461.1.654_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+MH678815.1.654_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	1008-fragment2
+JN982032.1.645_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+JX876609.1.637_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	E1
+KC164228.1.635_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+KC164220.1.634_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+KC164221.1.630_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+KC164247.1.628_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+KC164236.1.628_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AB769323.1.627_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AB769332.1.617_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AB769354.1.617_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+LC122954.1.617_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+LC122941.1.617_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AB769359.1.614_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AB769333.1.609_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AY576362.1.609_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	543
+MH678814.1.609_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	1008-fragment1
+KC210140.1.605_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CF3-126b
+MH678811.1.605_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	1004
+KC346962.1.592_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CS1-C06
+KC210141.1.588_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CF3-40
+AB781929.1.568_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AB781932.1.566_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+EU377595.1.562_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CRIB66
+AB781930.1.556_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+EU377594.1.549_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	CRIB57
+JN982031.1.515_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+KC164218.1.513_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+FJ710514.1.510_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	1	
+AY266315.1.690_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Willaertia_III	Willaertia_III_magna	1	A1,2 PWCl1
+AF011455.1.2138_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Learamoeba	Learamoeba_waccamawensis	1	LCD-2B; ATCC 50579
+KC346968.1.620_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Learamoeba	Learamoeba_waccamawensis	1	CF8-329
+GU320580.1.990_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Paratetramitus	Paratetramitus_sp.	1	
+AF011456.1.2170_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Singhamoeba	Singhamoeba_horticola	1	CR-1-3; ATCC 50197
+KC346967.1.685_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Singhamoeba	Singhamoeba_horticola	1	CF6-312
+GU320581.1.2140_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Singhamoeba	Singhamoeba_sp.	1	
+AJ224888.1.1869_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_aberdonicus	1	CCAP 1588/4
+KY463322.1.2118_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_dokdoensis	1	
+AJ224889.1.2106_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	1	CCAP 1588/5
+M98050.1.2114_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_jugosus	1	
+KT257697.1.1194_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_jugosus	1	PrGuaT
+M98051.1.2119_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_rostratus	1	
+OQ534278.1.2116_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	GO001
+AY394431.1.2045_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+EF378689.1.1369_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F8-16
+EF378684.1.1368_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F5-4
+EF378683.1.1366_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F3-16
+EF378688.1.1363_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F8-15
+EF378681.1.1355_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F3-3
+EF378685.1.1350_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F5-13
+EF378682.1.1348_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F3-6
+EF378687.1.1345_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F8-13
+EF378686.1.1338_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F5-20
+EF378693.1.1331_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	BD1-5
+EF378691.1.1323_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	BD1-1
+EF378692.1.1323_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	BD1-4
+EF378690.1.1195_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	F8-17
+OP297024.1.713_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	TS37-1
+OP297025.1.712_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	TS37-2
+FO181513.1.675_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+KC164229.1.666_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+KC164239.1.662_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+KC210142.1.662_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	CF3-107b
+KC164219.1.659_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+LC122939.1.658_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+LC122947.1.658_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	1	
+AJ621575.1.2065_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_thermacidophilus	1	
+KM669765.1.1941_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_thermacidophilus	1	
+AJ621574.1.1910_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_thermacidophilus	1	
+X93085.1.2030_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_thorntoni	1	
+KT257696.1.1141_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_thorntoni	1	SkGuaT
+KT290032.1.663_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_thorntoni	1	
+AF333503.1.1419_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_vestfoldii	1	
+JQ271723.1.1996_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	1	4171L
+AJ224886.1.1784_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	1	CCAP 1588/1A
+AJ224887.1.1767_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	1	CCAP 1588/2
+M98052.1.2137_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_lobospinosa	1	
+HM749956.1.1736_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_sp.	1	
+KC164233.1.621_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_sp.	1	
+AB273931.1.584_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_sp.	1	
+LC122940.1.568_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_sp.	1	
+AF011461.1.1875_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Gruberellidae	Stachyamoeba	Stachyamoeba_sp.	1	ATCC 50324
+JN606337.1.1913_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	WS
+JN606328.1.1874_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	BAUM
+JN606329.1.1858_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	IND2
+JN606335.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	TOCOV
+JN606336.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	VT1
+JN606333.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	SOOS1
+JN606334.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	TEXEL
+JN606332.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	PANT1
+JN606327.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	AMT
+JN606330.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	KG3N
+JN606331.1.1856_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	1	KOMPKOJ
+KF840535.1.2723_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_salinus	1	TSUKIM
+JN606339.1.1860_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_schusteri	1	IND8
+JN606340.1.1860_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_schusteri	1	INDSIP
+JN606342.1.1860_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_schusteri	1	TUN2
+JN606343.1.1839_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_schusteri	1	VITSED
+JN606338.1.1675_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_schusteri	1	CIZOV1
+JN606341.1.1674_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_schusteri	1	OLB4
+AB769347.1.509_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_sp.	1	
+AB769335.1.509_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_sp.	1	
+AB769334.1.509_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_sp.	1	
+KF840528.1.1859_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_disparata	1	LAGOS1M
+KF840523.1.1673_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_disparata	1	FUEN4
+KF840522.1.817_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_disparata	1	COORONG
+KF840536.1.1667_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_elegans	1	EVROS1M
+KF840521.1.2258_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_minor	1	AND
+KF840521.1.2258_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_minor	1	AND
+KF840529.1.1599_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_minor	1	TINI
+KF840533.1.1684_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_robusta	1	FUEN3
+AF011463.1.1908_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	ATCC 50576
+KF840534.1.1860_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	TSUKIM
+JN606344.1.1859_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	PC4BIC
+KF840527.1.1852_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	KORISSION3
+KF840526.1.1676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	IGO3
+KF840525.1.1674_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	IGO2
+KF840524.1.1551_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_visvesvarai	1	GOUVIA
+FN865111.1.1213_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonadidae_PSA1	Psalteriomonadidae_PSA1_sp.	1	
+FN865530.1.1213_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonadidae_PSA1	Psalteriomonadidae_PSA1_sp.	1	
+OQ633187.1.1716_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_australis	1	KAMER4A
+OQ633186.1.1716_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_australis	1	KAKADU
+OQ633188.1.1687_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_australis	1	BAI1A
+OQ633185.1.1717_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_fimbriata	1	STRPJEZ2
+X94430.1.1945_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	
+AF420005.1.1902_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	
+JN606345.1.1898_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	CIZOV2
+JN606346.1.1744_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VIT3
+JN606347.1.1744_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VIT5
+JN606349.1.1744_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VT2
+JN606348.1.1744_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VIT9
+OQ633147.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	BUKITLA
+OQ633146.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	MAD4C
+OQ633138.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	RUM4
+OQ633137.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VAKANASI
+OQ633136.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	GOLAKABAS
+OQ633135.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	BURMA
+OQ633122.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	KORTUN
+OQ633121.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	WACT07
+OQ633120.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	ADANA
+OQ633148.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	CONGO
+OQ633140.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	OPATOV
+OQ633139.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	CID2
+OQ633133.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	DANIEL1
+OQ633130.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VLCPOTOK
+OQ633129.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	KRIVOKL
+OQ633128.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	JESENICE
+OQ633127.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	STAN2
+OQ633126.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	DOBREPOLE
+OQ633125.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	DANIEL5
+OQ633124.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	KIR
+OQ633123.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	ANASA
+OQ633132.1.1666_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	BEAVER5
+OQ633131.1.1666_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	BEAVER1
+OQ633143.1.1644_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	PNG
+OQ633142.1.1560_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	VLAJOH
+OQ633141.1.1554_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	BEROUN4
+OQ633144.1.1276_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	BARMA
+OQ633149.1.1209_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	CANC3
+OQ633145.1.939_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	STOD5
+OQ633134.1.846_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_lanterna	1	CANA
+JN606351.1.1866_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	IND7
+JN606352.1.1715_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	KIZILLAR
+OQ633154.1.1715_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	EVROS4B
+OQ633150.1.1715_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	SUSB
+OQ633155.1.1687_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	LERMA1
+OQ633156.1.1677_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	LERMA6
+OQ633158.1.1675_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	BAI1B1
+OQ633157.1.1661_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	ZOMBA1A
+OQ633152.1.1635_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	LUOBIAO
+JN606350.1.1627_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	CERETE
+OQ633151.1.1574_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	HIGRI
+OQ633153.1.1554_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_magna	1	NAG4
+OQ633162.1.1724_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_minuta	1	CVIA
+OQ633161.1.1724_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_minuta	1	CASTILLO
+OQ633163.1.1722_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_minuta	1	KAMER4B
+OQ633184.1.1718_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_parva	1	AYEN
+OQ633183.1.1718_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_parva	1	NAG1
+OQ633189.1.1729_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_sp.	1	NDJOKO
+OQ633159.1.1724_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_sp.	1	KU1ST
+OQ633160.1.1693_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonas	Psalteriomonas_sp.	1	KU13
+KF840530.1.1739_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Pseudoharpagon	Pseudoharpagon_longus	1	EVROS1I
+JN606356.1.1937_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Pseudoharpagon	Pseudoharpagon_pertyi	1	EVROS2
+JN606357.1.1886_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Pseudoharpagon	Pseudoharpagon_pertyi	1	NY0199
+KF840532.1.1763_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Pseudoharpagon	Pseudoharpagon_tertius	1	MURANO3
+KF840531.1.1762_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Pseudoharpagon	Pseudoharpagon_tertius	1	LAGOS1P
+AF439351.1.1950_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	Rust-1; ATCC 50653
+OQ633174.1.1720_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	VLADA7
+OQ633168.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	CID1KLON
+OQ633167.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	TITICACA
+OQ633166.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	SUSBSM
+OQ633165.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	JAVR
+OQ633164.1.1719_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	IND7
+OQ633172.1.1699_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	CEPIMAL
+OQ633170.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	EPOPO2
+OQ633169.1.1691_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	EPOPO1
+JN606353.1.1682_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	ITZAVL
+JN606354.1.1682_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	LUH2
+JN606355.1.1682_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	LUH3
+OQ633175.1.1682_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	KALIKARI
+OQ633173.1.1666_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	BURRU1SM
+OQ633176.1.1665_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	TUN2SUM
+OQ633171.1.1603_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	WACT09
+OQ633182.1.1477_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	KU1NO
+OQ633177.1.1436_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	KRM9
+OQ633179.1.1426_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	RYBNIK2
+OQ633178.1.1426_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	RYBNIK1
+OQ633180.1.1329_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	SCHOON2
+OQ633181.1.1086_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	1	STOD4
+AF011459.1.1997_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_hypersalinica	1	Porto
+FJ222604.1.1972_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_hypersalinica	1	A2
+ON561780.1.2659_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_salpumilio	1	ES010
+KT210042.1.1269_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_sp.	1	
+FR719836.1.2371_G	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Fumarolamoeba	Fumarolamoeba_ceborucoi	1	FUM1
+FR719836.1.2371_R	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Fumarolamoeba	Fumarolamoeba_ceborucoi	1	FUM1
+GU970811.1.503_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Fumarolamoeba	Fumarolamoeba_sp.	1	
+GU970820.1.503_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Fumarolamoeba	Fumarolamoeba_sp.	1	
+AF011460.1.1808_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Heteramoeba	Heteramoeba_clara	1	
+AF439350.1.1785_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Heteramoeba	Heteramoeba_clara	1	Droop; ATCC 30972
+FN668558.1.2905_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Oramoeba	Oramoeba_fumarolia	1	SAN2
+FN668558.1.2905_UC	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Oramoeba	Oramoeba_fumarolia	1	SAN2
+KF547920.1.1738_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	1	Tib23
+GQ861576.1.626_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+HQ999786.1.520_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+HQ998889.1.520_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+EU860626.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+EU860662.1.518_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+GU970137.1.518_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+GU970145.1.518_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+GU970100.1.518_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+GU970181.1.517_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+HQ999738.1.517_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	1	
+MZ919148.1.1810_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_stagnalis	1	Va-1
+MZ919274.1.524_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_stagnalis	1	Va-1
+GU230754.1.1921_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	A1PW2
+DQ388521.1.1910_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	
+FJ169185.1.1880_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	CDC:V595
+AJ550994.1.1876_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	
+LN577683.1.728_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	
+LN585833.1.721_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	
+LN577579.1.673_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	
+KF607042.1.526_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_sp.	1	
+AJ224890.1.1903_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_ustiana	1	CCAP 1588/6
+KX068999.1.1692_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_ustiana	1	ST-39
+AY082995.1.1921_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	1	
+FN867270.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	1	
+FN867225.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	1	
+FN867186.1.1205_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	1	
+JN982036.1.849_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	1	
+HQ998937.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999017.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999027.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999045.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999043.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999171.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999032.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999036.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+HQ999150.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	1	
+DQ423741.1.934_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_3	Tetramitia_VI_3_sp.	1	
+DQ423736.1.929_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_3	Tetramitia_VI_3_sp.	1	
+AM114803.1.1852_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_4	Tetramitia_VI_4_sp.	1	
+AB273907.1.512_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_4	Tetramitia_VI_4_sp.	1	
+JX441981.1.1813_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_5	Tetramitia_VI_5_sp.	1	HGG1
+KT892700.1.1603_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_5	Tetramitia_VI_5_sp.	1	B1
+KC575114.1.522_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_5	Tetramitia_VI_5_sp.	1	
+KC218483.1.1040_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_XX	Tetramitia_VI_XX_sp.	1	
+AB273891.1.536_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_XX	Tetramitia_VI_XX_sp.	1	
+AB513360.1.1785_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Vrihiamoeba	Vrihiamoeba_italica	1	6_5F
+X93221.1.842_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Vahlkampfiidae_VI	Willaertia_VI	Willaertia_VI_magna	1	Z503
+X93223.1.662_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Vahlkampfiidae_VI	Willaertia_VI	Willaertia_VI_magna	1	Z503
+KC164225.1.618_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Vahlkampfiidae_VI	Willaertia_VI	Willaertia_VI_sp.	1	
+KC164246.1.618_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Vahlkampfiidae_VI	Willaertia_VI	Willaertia_VI_sp.	1	
+MTPI01001075.1873.4000_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+MT739328.1.2104_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+MT739327.1.2051_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+GALN01455525.2.1628_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+FPLS01011620.10.1506_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+OBEP011516274.1.1254_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+GGKG01017257.1.1242_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Acrasida	Acrasidae	Allovahlkampfia	Allovahlkampfia_sp.	0	
+GBCF01043509.125.1544_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Percolomonadidae	Nakurumonas	Nakurumonas_serrata	0	
+GQ377672.1.631_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Percolatea	Stephanopogonidae	Stephanopogon	Stephanopogon_minuta	0	
+MN969060.1.3136_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Pharyngomonada	Pharyngomonadidae	Pharyngomonas	Pharyngomonas_sp.	0	
+OBEP011676152.1.1504_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_sp.	0	
+AB970438.1.716_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_sp.	0	
+AB970405.1.666_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_sp.	0	
+GU922585.1.502_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfia	Neovahlkampfia_sp.	0	
+OBEP010721389.1.1533_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfiidae_X	Neovahlkampfiidae_X_sp.	0	
+OBEP010827797.1.1530_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_I	Neovahlkampfiidae	Neovahlkampfiidae_X	Neovahlkampfiidae_X_sp.	0	
+MF399032.1.631_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_americana	0	
+LC222881.1.1927_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_australiensis	0	
+OBEP010278367.1.1563_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	0	
+MT739326.1.1318_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	0	
+MG945025.1.510_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_clarki	0	
+KY062165.1.1689_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fowleri	0	
+OQ034615.1.807_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_fultoni	0	
+OBEP010279226.1.1342_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	0	
+MT613729.1.700_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_gruberi	0	
+OQ034614.1.887_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	0	
+OQ034612.1.822_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	0	
+OQ034613.1.770_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_pagei	0	
+OBEP010275355.1.1649_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	0	
+OBEP010276612.18.1417_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	0	
+LC318418.1.624_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	0	
+AB769363.1.617_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_III	Vahlkampfiidae_III	Naegleria	Naegleria_sp.	0	
+MZ338488.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Learamoeba	Learamoeba_waccamawensis	0	
+MZ338487.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338486.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338485.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338484.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338482.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338481.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338480.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338479.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338478.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338474.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338473.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338472.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338470.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338469.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338465.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338464.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338463.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338462.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338460.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338459.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338458.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338457.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338453.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338452.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338451.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338450.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338449.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338448.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338447.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338446.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338445.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338444.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338443.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338442.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MZ338441.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_entericus	0	
+MT021911.1.2085_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_rostratus	0	
+UOWI01021177.1.1119_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_rostratus	0	
+MZ338483.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338477.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338476.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338475.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338471.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338468.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338467.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338466.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338461.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338456.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338455.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338454.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+MZ338440.1.676_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Tetramitus	Tetramitus_sp.	0	
+LC655700.1.1982_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	0	
+OP179657.1.1350_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	0	
+KC164241.1.621_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	0	
+KC164240.1.621_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	0	
+KC164242.1.621_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_avara	0	
+MT739329.1.1885_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+MZ338490.1.659_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+MZ338491.1.658_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+MZ338493.1.654_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+MZ338489.1.653_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+MZ338494.1.650_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+MZ338492.1.649_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_V	Vahlkampfiidae_V	Vahlkampfia	Vahlkampfia_inornata	0	
+OBEP011679615.2.1331_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Gruberellidae	Stachyamoeba	Stachyamoeba_sp.	0	
+AB769352.1.509_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Harpagon	Harpagon_descissus	0	
+OBEP010049157.1.1423_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_elegans	0	
+OBEP010003268.16.1226_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Monopylocystis	Monopylocystis_elegans	0	
+OQ633191.1.1703_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonadidae_PSA1	Psalteriomonadidae_PSA1_sp.	0	CID1KUL
+OQ633192.1.1670_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Psalteriomonadidae_PSA1	Psalteriomonadidae_PSA1_sp.	0	GDUKABAS
+ORJL011683094.1963.3896_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	0	
+OQ633193.1.1717_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	0	VLADA7SW
+OQ633190.1.1705_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	0	H1N
+OBEP010149829.1.1292_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Psalteriomonadidae	Sawyeria	Sawyeria_marylandensis	0	
+MN969059.1.1846_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_hypersalinica	0	
+OM654558.1.1831_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_hypersalinica	0	 
+MF490458.1.1121_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_hypersalinica	0	
+AB830777.1.527_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Euplaesiobystra	Euplaesiobystra_hypersalinica	0	
+OBEP010155054.1.1548_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Oramoeba	Oramoeba_fumarolia	0	
+OBEP010279993.1.1642_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010278423.2.1632_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010278115.1.1613_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010277606.1.1565_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010279659.1.1565_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010280323.1.1562_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010279615.1.1560_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010275161.1.1550_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010275221.1.1549_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010276620.1.1548_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010276643.1.1539_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010277921.1.1500_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010276325.1.1486_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010277970.1.1463_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010280118.1.1451_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010275732.2.1423_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010278734.13.1387_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010274976.18.1392_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010276501.18.1366_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010280503.10.1357_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010277295.19.1366_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+OBEP010278623.1.1224_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+MW441243.1.698_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_alta	0	
+GU970378.1.518_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	0	
+GU970340.1.518_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	0	
+GU970149.1.512_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_sp.	0	
+OBEP010274838.20.1262_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Parafumarolamoeba	Parafumarolamoeba_stagnalis	0	
+KF357492.1.544_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Paravahlkampfia	Paravahlkampfia_ustiana	0	
+OBEP010275555.1.1547_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+OBEP010277303.2.1503_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+OBEP010280276.1.1489_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+OBEP010277464.106.1493_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+OBEP010274931.1.1323_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+OBEP010277210.19.1328_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+AB769331.1.535_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+HQ999220.1.534_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_1	Tetramitia_VI_1_sp.	0	
+HQ999161.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	0	
+HQ999172.1.519_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_2	Tetramitia_VI_2_sp.	0	
+OL989986.1.1774_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_4	Tetramitia_VI_4_sp.	0	
+MZ045839.1.619_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_XX	Tetramitia_VI_XX_sp.	0	
+AB273896.1.536_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Tetramitia_VI_X	Tetramitia_VI_XX	Tetramitia_VI_XX_sp.	0	
+MW349574.1.3365_U	Eukaryota	Excavata	Discoba	Discoba_X	Heterolobosea	Tetramitia_VI	Vahlkampfiidae_VI	Willaertia_VI	Willaertia_VI_magna	0	NI4C1(1)

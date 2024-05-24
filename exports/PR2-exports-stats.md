@@ -163,6 +163,11 @@ exported - other: 2096
 - Number of sequences exported - pr2 expert annotation: 124
 - Number of sequences exported - dada2 automated annotation: 27
 
+### Heterolobosea - Ivan Cepicka
+
+- Number of sequences exported - pr2 expert annotation: 606
+- Number of sequences exported - dada2 automated annotation: 152
+
 ------------------------------------------------------------------------
 
 # EurRef workshop 2023
