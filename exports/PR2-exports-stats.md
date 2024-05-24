@@ -3,21 +3,73 @@
 
 # Version 5.1 - 2024
 
-Including curated EukRef files
+List of currently curated groups with the person(s) in charge
+
+# DONE
 
 ## Archaeplastida
 
-### Rhodophyta
+### Rhodophyta - Eric Salomaki
 
-#### Ceramiales
+#### Ceramiales - integrated into PR2 5.1
 
 - Number of sequences exported - annotated: 470
 - Number of sequences exported - other: 112
 
-#### Batrachospermales
+#### Batrachospermales - integrated into PR2 5.1
 
 - Number of sequences exported - annotated: 72
 - Number of sequences exported - other: 38
+
+### Chlorophyta
+
+#### Chloropicophyceae - Daniel Vaulot - integrated into PR2 5.1
+
+- Number of sequences exported - annotated: 298
+- Number of sequences exported - other: 107
+
+#### Picocystophyceae - Daniel Vaulot - integrated into PR2 5.1
+
+- Number of sequences exported - annotated: 19
+- Number of sequences exported - other: 8
+
+### Picozoa - Nina - integrated into PR2 5.1
+
+- Number of sequences exported - annotated: 293
+- Number of sequences exported - other: 176
+
+## Opisthokonta
+
+### Fungi
+
+#### Microsporida - Lilith - done - to integrate into PR2 5.1
+
+Number of sequences exported - annotated: 1345 Number of sequences
+exported - other: 2096
+
+## TSAR
+
+### Alveolata
+
+#### Dinophyta
+
+##### Suessiales - Anthony - done - to integrate into PR2 5.1
+
+- Number of sequences exported - annotated: 542
+- Number of sequences exported - other: 594
+
+##### Gonyaulax, Alexandrium, Amphidinium, Heterocapsa, Azadinium - Huan Feng- done - to integrate into PR2 5.1
+
+- Number of sequences exported - annotated: 871
+- Number of sequences exported - other: 421
+
+------------------------------------------------------------------------
+
+# IN PROGRESS
+
+## Archaeplastida
+
+### Rhodophyta - Eric Salomaki
 
 #### Gigartinales
 
@@ -26,41 +78,26 @@ Including curated EukRef files
 
 ### Chlorophyta
 
-#### Ulvophyceae
+#### Ulvophyceae - Thomas Pröschold and Tanya
 
 - Number of sequences exported - pr2 expert annotation: 1907
 - Number of sequences exported - dada2 automated annotatation: 1480
 
-#### Chloropicophyceae
-
-- Number of sequences exported - annotated: 298
-- Number of sequences exported - other: 107
-
-#### Picocystophyceae
-
-- Number of sequences exported - annotated: 19
-- Number of sequences exported - other: 8
-
-#### Sphaeropleales
+#### Sphaeropleales - Thais Garcia da Silva - Marseille
 
 - Number of sequences exported - pr2 expert annotation: 1783
 - Number of sequences exported - dada2 automated annotatation: 2027
 
-### Picozoa
-
-- Number of sequences exported - annotated: 293
-- Number of sequences exported - other: 176
-
 ## Opisthokonta
 
-### Choanoflagellata
+### Choanoflagellata - Frank Nitsche - Köln
 
 - Number of sequences exported - pr2 expert annotation: 546
 - Number of sequences exported - dada2 automated annotation: 1496
 
 ### Fungi
 
-#### Aphelidiomycota_et_al
+#### Aphelidiomycota, Chytridiomycota, Monoblepharomycota - Alexei
 
 - Number of sequences exported - pr2 expert annotation: 1414
 - Number of sequences exported - dada2 automated annotation: 1152
@@ -71,22 +108,60 @@ Including curated EukRef files
 
 #### Ciliophora
 
-##### Pleurostomatida
+##### Pleurostomatida - Hongbo
 
 - Number of sequences exported - pr2 expert annotation: 175
 - Number of sequences exported - dada2 automated annotation: 289
 
-##### Cyrtophoria
+##### Cyrtophoria - Hongbo
 
 - Number of sequences exported - pr2 expert annotation: 213
 - Number of sequences exported - dada2 automated annotation: 185
 
+##### Spirotrichea - Maximilian
+
+- Number of sequences exported - annotated: 4059
+- Number of sequences exported - other: 5580
+
+##### Armophorea - Ivan Cepicka
+
+- Number of sequences exported - pr2 expert annotation: 230
+- Number of sequences exported - dada2 automated annotation: 238
+
+#### Dinophyta
+
 ### Stramenopiles
 
-#### MAST
+#### MAST - Aleix Obiol and Ramon Massana
 
 - Number of sequences exported - pr2 expert annotation: 2001
 - Number of sequences exported - dada2 automated annotation: 900
+
+## Haptista
+
+### Centroplasthelida (Centrohelids) - Daria Drachko
+
+- Number of sequences exported - pr2 expert annotation: 158
+- Number of sequences exported - dada2 automated annotation: 175
+
+## Amoebozoa
+
+### Archamoebea - Ivan Cepicka
+
+- Number of sequences exported - pr2 expert annotation: 549
+- Number of sequences exported - dada2 automated annotation: 1017
+
+## Excavata
+
+### Metamonada - Ivan Cepicka
+
+- Number of sequences exported - pr2 expert annotation: 1656
+- Number of sequences exported - dada2 automated annotation: 1208
+
+### Jakobida - Ivan Cepicka
+
+- Number of sequences exported - pr2 expert annotation: 124
+- Number of sequences exported - dada2 automated annotation: 27
 
 ------------------------------------------------------------------------
 
@@ -99,15 +174,11 @@ Including curated EukRef files
     Amoebozoa
     Number of sequences exported - annotated: 3331
     Number of sequences exported - other: 9060
-    Microsporida 
-    Number of sequences exported - annotated: 1345
-    Number of sequences exported - other: 2096
+
     Rhodophyta
     Number of sequences exported - annotated: 2458
     Number of sequences exported - other: 2986
-    Suessiales
-    Number of sequences exported - annotated: 542
-    Number of sequences exported - other: 594
+
     Dinophyceae
     Number of sequences exported - annotated: 7591
     Number of sequences exported - other: 6062
@@ -121,17 +192,6 @@ Including curated EukRef files
     Trebouxiophyceae 
     - Number of sequences exported - annotated: 3072
     - Number of sequences exported - other: 2424
-
-    Ceramiales 
-    - Number of sequences exported - annotated: 470
-    - Number of sequences exported - other: 112
-    Batrachospermales 
-    - Number of sequences exported - annotated: 72
-    - Number of sequences exported - other: 38
-
-    Chloropicophyceae 
-    - Number of sequences exported - annotated: 298
-    - Number of sequences exported - other: 107
 
 
     Fungi 
@@ -195,14 +255,6 @@ Including curated EukRef files
     Chelicerata 
     - Number of sequences exported - annotated: 3471
     - Number of sequences exported - other: 13904
-
-    Chloropicophyceae 
-    - Number of sequences exported - annotated: 298
-    - Number of sequences exported - other: 107
-
-    Picocystophyceae 
-    - Number of sequences exported - annotated: 19
-    - Number of sequences exported - other: 8
 
     Chlorodendrophyceae 
     - Number of sequences exported - annotated: 244
