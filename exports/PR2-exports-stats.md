@@ -38,15 +38,6 @@ List of currently curated groups with the person(s) in charge
 - Number of sequences exported - annotated: 293
 - Number of sequences exported - other: 176
 
-## Opisthokonta
-
-### Fungi
-
-#### Microsporida - Lilith - done - to integrate into PR2 5.1
-
-Number of sequences exported - annotated: 1345 Number of sequences
-exported - other: 2096
-
 ## TSAR
 
 ### Rhizaria
@@ -105,6 +96,11 @@ exported - other: 2096
 
 - Number of sequences exported - pr2 expert annotation: 1414
 - Number of sequences exported - dada2 automated annotation: 1152
+
+#### Microsporida - Lilith South
+
+Number of sequences exported - annotated: 1345 Number of sequences
+exported - other: 2096
 
 ## TSAR
 
