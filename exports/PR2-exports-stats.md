@@ -48,7 +48,7 @@ List of currently curated groups with the person(s) in charge
 
 #### Dinophyta
 
-##### Suessiales - Anthony - done - to integrate into PR2 5.1
+##### Suessiales - Anthony Bonacolta - integrated into PR2 5.1
 
 - Number of sequences exported - annotated: 542
 - Number of sequences exported - other: 594
